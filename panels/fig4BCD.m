@@ -1,7 +1,7 @@
 % Retains historical significance labels.
 % Use fig4BCD_checked for significance calculated separately for each bar.
 % Historical mixed geometry: variation M1 and global M2.
-[S, fig_png, fig_pdf] = did_group_tests( ...
+[S, fig_pdf] = did_group_tests( ...
   figure_input('manifold/var/M1.mat'), ...
   figure_input('manifold/global/M2.mat'), ...
   'save_dir', figure_output('fig4BCD'), ...
@@ -13,7 +13,7 @@ fprintf(fid,'%s',jsonencode(S,PrettyPrint=true));fclose(fid);
 
 
 
-function [S, fig_png, fig_pdf] = did_group_tests(M1_file, M2_file, varargin)
+function [S, fig_pdf] = did_group_tests(M1_file, M2_file, varargin)
 % Read two DiD result files containing table T, test each group and plot three panels.
 % Metrics: alphaM_DiD tests < 0; RM_DiD and DM_DiD test > 0.
 
@@ -86,12 +86,10 @@ plot_one_metric_enhanced('Dimension (D) - DiD', ...
 
 % Save outputs
 ts = datestr(now,'yyyymmdd_HHMMSS');
-fig_png = fullfile(save_dir, ['DiD_overall_M1_M2_' ts '.png']);
 fig_pdf = fullfile(save_dir, ['DiD_overall_M1_M2_' ts '.pdf']);
-exportgraphics(fig, fig_png, 'Resolution', 300);
 exportgraphics(fig, fig_pdf, 'ContentType', 'vector');
 
-fprintf('\nSaved figure:\n  %s\n  %s\n', fig_png, fig_pdf);
+fprintf('\nSaved figure:\n  %s\n', fig_pdf);
 
 % Local functions
 function T = load_table_from_did(fpath)

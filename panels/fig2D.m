@@ -136,8 +136,6 @@ VIEW_EL = 22;
 %% ---------------------------------------------------------------------
 
 EXPORT_PDF = true;
-EXPORT_PNG = true;
-EXPORT_TIF = true;
 
 RASTER_DPI = 600;
 
@@ -1424,64 +1422,6 @@ if EXPORT_PDF
 
     fprintf( ...
         'PDF: %.2f sec\n', ...
-        toc);
-
-end
-
-
-%% ---------------------------------------------------------------------
-% PNG
-%% ---------------------------------------------------------------------
-
-if EXPORT_PNG
-
-
-    png_file = ...
-        fullfile( ...
-            SAVE_DIR, ...
-            'Manifold_FinalClean_PNAS.png');
-
-
-    tic;
-
-
-    exportgraphics( ...
-        fig, ...
-        png_file, ...
-        'Resolution',RASTER_DPI);
-
-
-    fprintf( ...
-        'PNG: %.2f sec\n', ...
-        toc);
-
-end
-
-
-%% ---------------------------------------------------------------------
-% TIFF
-%% ---------------------------------------------------------------------
-
-if EXPORT_TIF
-
-
-    tif_file = ...
-        fullfile( ...
-            SAVE_DIR, ...
-            'Manifold_FinalClean_PNAS.tif');
-
-
-    tic;
-
-
-    exportgraphics( ...
-        fig, ...
-        tif_file, ...
-        'Resolution',RASTER_DPI);
-
-
-    fprintf( ...
-        'TIFF: %.2f sec\n', ...
         toc);
 
 end

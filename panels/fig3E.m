@@ -259,7 +259,6 @@ save(fullfile(save_dir,'paired_per_pair_data.mat'), ...
     'pair_session_label','pair_monkey_label');
 writetable(pair_table, fullfile(save_dir,'paired_per_pair_data.csv'));
 
-saveas(fig, fullfile(save_dir,'violin_early_vs_late_monkey.png'));
 saveas(fig, fullfile(save_dir,'violin_early_vs_late_monkey.pdf'));
 
 fprintf('\nDone. Saved to:\n%s\n', save_dir);

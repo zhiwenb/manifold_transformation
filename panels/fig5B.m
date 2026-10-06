@@ -411,14 +411,10 @@ set(gca, 'XTick', 1:3, ...
 
     ylim([min(y_min - 0.15*y_range, -5), current_y + 0.20*y_range]);
 
-    print(gcf, 'Final_Orthogonality_SessionLevel_originalAngle', '-dpng', '-r600');
     print(gcf, 'Final_Orthogonality_SessionLevel_originalAngle', '-dpdf');
-    print(gcf, 'Final_Orthogonality_SessionLevel_originalAngle', '-dsvg');
 
     fprintf('\nSaved figure:\n');
-    fprintf('  Final_Orthogonality_SessionLevel_originalAngle.png\n');
     fprintf('  Final_Orthogonality_SessionLevel_originalAngle.pdf\n');
-    fprintf('  Final_Orthogonality_SessionLevel_originalAngle.svg\n');
 end
 
 function plot_sig_line(x1, x2, y, p, y_range)

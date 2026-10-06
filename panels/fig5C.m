@@ -355,19 +355,7 @@ leg.ItemTokenSize = [18 12];
 
 
 %% 5. Save
-fmts = {'-dpng','-r300'; '-dpdf','-vector'; '-depsc2','-vector'; '-dsvg',''};
-exts = {'png','pdf','eps','svg'};
-
-for k = 1:4
-    fname = fullfile(saveDir, sprintf('RSA_Improvement_BigClean.%s', exts{k}));
-    if isempty(fmts{k,2})
-        print(hFig, fname, fmts{k,1});
-    else
-        print(hFig, fname, fmts{k,1}, fmts{k,2});
-    end
-end
-
-savefig(hFig, fullfile(saveDir, 'RSA_Improvement_BigClean.fig'));
+print(hFig, fullfile(saveDir, 'RSA_Improvement_BigClean.pdf'), '-dpdf', '-vector');
 fprintf('\nAll figures saved to: %s\n', saveDir);
 
 %% 6. Summary

@@ -14,7 +14,7 @@ The repository contains processed firing-rate data, saved SDI and decoding resul
 | `data/extra_var` | Additional session containing variation data only |
 | `data/manifold` | Shared manifold result tables |
 | `panels` | MATLAB plotting scripts |
-| `results` | Exported figure panels in PDF and PNG formats |
+| `results` | Exported figure panels in PDF format |
 
 Sessions are numbered sequentially for this release:
 
@@ -48,7 +48,7 @@ run_figures('fig4BCD_checked') % Assign significance to each geometry bar
 run_figures('fig4BCD_global')  % Generate geometry panels using global data
 ```
 
-Figures are written to `outputs/fig*/`. Required input paths are prepared automatically; no manual path edits are needed.
+Figures are exported as PDF and written to `outputs/fig*/`. Required input paths are prepared automatically; no manual path edits are needed.
 
 ## Analysis notes
 

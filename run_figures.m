@@ -34,7 +34,6 @@ script_cleanup = onCleanup(@() delete(temporary));
 run_isolated(temporary);
 figures = findall(groot, 'Type', 'figure');
 for k = 1:numel(figures)
-    exportgraphics(figures(k), fullfile(destination, sprintf('panel_%d.png',k)), 'Resolution',300);
     exportgraphics(figures(k), fullfile(destination, sprintf('panel_%d.pdf',k)), 'ContentType','vector');
 end
 end
