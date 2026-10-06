@@ -1,111 +1,59 @@
-# Manifold transformation figures
+# Manifold transformation
 
-Run the figures with the original neuron collections. No SNR screening.
-Code comments are in English. All required plotting inputs are included.
+## Data and code availability
 
-## Run
+The data and MATLAB code used to generate the analytical figure panels are available in this repository: [https://github.com/zhiwenb/manifold_transformation](https://github.com/zhiwenb/manifold_transformation).
 
-MATLAB R2024b with Statistics and Machine Learning Toolbox and Optimization
-Toolbox was used. In the repository folder:
+The repository contains processed firing-rate data, saved SDI and decoding results, manifold estimates, and plotting scripts. The original neuron collections are retained without additional SNR filtering. Raw spike recordings are not included. The supplied data support the following panels: Fig. 2D–F, Fig. 3A–F, Fig. 4B–F, and Fig. 5B–C. Reference PDFs for Figs. 1–5 are provided in `references/`; plotting code for the remaining panels is not included.
 
-```matlab
-run_figures()                 % All analytical panel groups
-run_figures('fig5C')          % One group
-run_figures('fig4BCD_checked') % Mixed geometry with per-bar p values
-run_figures('fig4BCD_global')  % Pure-global alternative
-```
+## Repository contents
 
-## Simple layout
+| Directory | Contents |
+|---|---|
+| `data/s1`–`data/s5` | Session-specific firing-rate data and saved analysis results |
+| `data/extra_var` | Additional session containing variation data only |
+| `data/manifold` | Shared manifold result tables |
+| `panels` | MATLAB plotting scripts |
+| `results` | Exported figure panels in PDF and PNG formats |
+| `references` | Reference figure PDFs |
+| `provenance` | Input checksums, recording dates, and session mappings |
 
-```text
-data/
-  s1/ ... s5/     Each session has fr/ and metrics/
-  extra_var/      Original s2, variation only
-  manifold/       Shared manifold result tables
-panels/           Figure drawing code
-results/          Generated previews (PNG and PDF)
-references/       Your original Fig1–5 PDFs
-provenance/       Checksums, date inventory and session mapping
-```
+Sessions are numbered sequentially for this release. The correspondence to the original recording identifiers is:
 
-| New session | Original session | Animal |
+| Released session | Original session | Animal |
 |---|---|---|
 | s1 | s1 | M1 |
 | s2 | s4 | M1 |
 | s3 | s5 | M2 |
 | s4 | s6 | M2 |
 | s5 | s7 | M2 |
-| extra_var | s2 (variation only) | M1 |
+| extra_var | s2 | M1 |
 
-Inside each session, `fr/var` and `fr/global` contain firing-rate inputs.
-`metrics/` contains saved SDI and decoding results grouped by analysis.
-Duplicate FR is stored once. Input values, neurons and date groups are unchanged;
-MAT-file internal historical metadata retains the original recording IDs.
-Scripts and displayed session labels use the new IDs. `extra_var` is retained
-without adding it to global or pooled analyses.
+Within each session, `fr/var` and `fr/global` contain firing-rate inputs, and `metrics/` contains saved analysis results. Original recording identifiers are retained in MAT-file metadata. The variation-only session is not included in global analyses.
 
-`run_figures` automatically prepares disposable input views inside
-`outputs_reference/inputs` for the original plotting code. You do not need to edit
-paths or manage these files. Generated figures go to `outputs_reference/fig*/`.
-The whole checkout can be moved to another location and used independently.
+## Reproducing the figures
 
-## Coverage and validation
-
-Included analytical groups: Fig2 D/E/F; Fig3 A/B/C/D/E/F; Fig4 B/C/D/E/F;
-Fig5 B/C. `fig4BCD` now reproduces the historical reference combination: variation M1
-and global M2. Its historical annotation bug is explicitly documented below.
-`fig4BCD_global` is the pure-global alternative. Fig4E/F now read the original
-prototype caches, rather than the later recomputed caches.
-
-Fig1, Fig2 A–C/G, Fig4 A and Fig5 A have reference PDFs, but their complete drawing
-source has not been identified. They are not claimed as regenerated panels.
-Manifold and decoding panels plot saved estimates, rather than rerunning raw
-spike analysis. Historical statistical choices are retained. Bootstrap intervals
-may vary slightly because the original random sampling is retained.
+The plotting code was run using MATLAB R2024b with the Statistics and Machine Learning Toolbox and the Optimization Toolbox. Binary data and figures are stored using Git LFS. After installing Git LFS, download the repository and its data:
 
 ```sh
-python3 validate_bundle.py
+git clone https://github.com/zhiwenb/manifold_transformation.git
+cd manifold_transformation
+git lfs pull
 ```
 
-Reference drawing entry points were validated; see
-`provenance/reference_run_validation.json`. Git LFS stores binary inputs and
-figures; install Git LFS and run `git lfs pull` after cloning.
+From the repository directory in MATLAB, run:
 
-Repository: https://github.com/zhiwenb/manifold_transformation
+```matlab
+run_figures()                  % Generate all included analytical panel groups
+run_figures('fig5C')           % Generate a selected panel group
+run_figures('fig4BCD_checked') % Assign significance to each geometry bar
+run_figures('fig4BCD_global')  % Generate geometry panels using global data
+```
 
-## Reference audit (2026-10-06)
+Figures are written to `outputs_reference/fig*/`. Required input paths are prepared automatically; no manual path edits are needed. Input file integrity can be checked with `python3 validate_bundle.py`.
 
-See [side-by-side comparison](reference_check/comparison.pdf),
-[interactive image index](reference_check/index.html), and
-[complete coverage table](reference_check/coverage.csv).
+## Analysis notes
 
-The analytic plot content was visually checked against the supplied PDFs;
-full-page layout and exact pixels have **not** been reproduced. Standalone font
-size, cropping, thumbnail assets, point jitter and bootstrap intervals can differ.
-Earlier run-success and layout-renaming checks did not establish reference equality.
+The plotting scripts use the supplied processed data and saved estimates. They do not reconstruct firing rates, manifold estimates, or decoding results from raw spike recordings. Session membership and historical analysis subsets are retained. Fig. 3F uses 46 paired observations; Figs. 4E–F use 70 paired observations. Bootstrap intervals and point jitter may vary between runs.
 
-Corrections: Fig2E/F labels; Fig3F violin rather than delta scatter; original
-prototype decoding and SDI caches for Fig4E/F; historical mixed geometry for
-Fig4B-D; and isolation of figures during export to avoid saving a previous panel.
-
-**Fig4B-D significance bug:** the original nested plotting helper comments out
-`p = p_vec_dir(i)`. Its shared `p` retains the last significance calculation,
-so stars are not assigned to their own bars. The historical plot can look like
-the reference while conveying incorrect significance. For example, mixed M1
-Dimension has p around 0.094, although the reference displays a star. Use
-`fig4BCD_checked` to see per-bar stars. Random sign-flip estimates near 0.05 can
-vary between reruns; no seed was selected to force a match to the reference.
-
-Original cached Fig3F uses 46 pairs and skips the dimension-mismatched original
-s4 (new s2) recording pair. Original cached Fig4E/F use 70 pairs. These historical
-scopes differ from later rebuilt caches (52 or 50 pairs); they are preserved for
-reference reproduction, rather than described as a common corrected pipeline.
-
-Only the reference panels, `fig4BCD_checked` (per-bar significance), and
-`fig4BCD_global` (pure-global geometry) are retained. Superseded drawing scripts
-and duplicate entry points were removed; their history remains in Git.
-
-The optional comparison report can be regenerated with
-`python3 tools/create_reference_audit.py` after `run_figures()`. It requires
-Pillow, reportlab and the Poppler `pdftoppm` command. MATLAB drawing does not
-require these Python packages.
+The default Fig. 4B–D script retains the original combination of variation data for M1 and global data for M2. It also retains the original significance-label behavior for figure reproduction. For significance labels calculated separately for each bar, use `fig4BCD_checked`; for global data in both animals, use `fig4BCD_global`.
