@@ -18,18 +18,18 @@ The repository contains processed firing-rate data, saved SDI and decoding resul
 | `references` | Reference figure PDFs |
 | `provenance` | Input checksums, recording dates, and session mappings |
 
-Sessions are numbered sequentially for this release. The correspondence to the original recording identifiers is:
+Sessions are numbered sequentially for this release:
 
-| Released session | Original session | Animal |
-|---|---|---|
-| s1 | s1 | M1 |
-| s2 | s4 | M1 |
-| s3 | s5 | M2 |
-| s4 | s6 | M2 |
-| s5 | s7 | M2 |
-| extra_var | s2 | M1 |
+| Session | Animal |
+|---|---|
+| s1 | M1 |
+| s2 | M1 |
+| s3 | M2 |
+| s4 | M2 |
+| s5 | M2 |
+| extra_var | M1 |
 
-Within each session, `fr/var` and `fr/global` contain firing-rate inputs, and `metrics/` contains saved analysis results. Original recording identifiers are retained in MAT-file metadata. The variation-only session is not included in global analyses.
+Within each session, `fr/var` and `fr/global` contain firing-rate inputs, and `metrics/` contains saved analysis results. The variation-only session is not included in global analyses.
 
 ## Reproducing the figures
 
