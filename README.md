@@ -67,9 +67,8 @@ may vary slightly because the original random sampling is retained.
 python3 validate_bundle.py
 ```
 
-All 13 drawing entry points passed after renumbering. Verification records are
-in `provenance/simple_layout_validation.json`. The numerical comparison with
-the previous layout is recorded in `provenance/numeric_comparison.json`. Git LFS stores binary inputs and
+Reference drawing entry points were validated; see
+`provenance/reference_run_validation.json`. Git LFS stores binary inputs and
 figures; install Git LFS and run `git lfs pull` after cloning.
 
 Repository: https://github.com/zhiwenb/manifold_transformation
@@ -102,8 +101,9 @@ s4 (new s2) recording pair. Original cached Fig4E/F use 70 pairs. These historic
 scopes differ from later rebuilt caches (52 or 50 pairs); they are preserved for
 reference reproduction, rather than described as a common corrected pipeline.
 
-Earlier alternatives remain available as `fig3F_delta`, `fig4E_recomputed`,
-`fig4F_recomputed`, and `fig4BCD_global`.
+Only the reference panels, `fig4BCD_checked` (per-bar significance), and
+`fig4BCD_global` (pure-global geometry) are retained. Superseded drawing scripts
+and duplicate entry points were removed; their history remains in Git.
 
 The optional comparison report can be regenerated with
 `python3 tools/create_reference_audit.py` after `run_figures()`. It requires

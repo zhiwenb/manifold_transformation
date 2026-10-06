@@ -174,21 +174,6 @@ function stars = p2stars(p_up, p_down, mu)
     end
 end
 
-function add_subplot_label(label)
-    % Add a panel label such as A, B or C at the upper-left corner.
-    ax = gca;
-    % Get the axes position.
-    xl = xlim(ax);
-    yl = ylim(ax);
-    
-    % Position the label relative to the axes limits.
-    text(xl(1) - 0.15*range(xl), yl(2), label, ...
-        'FontSize', 20, ...
-        'FontWeight', 'bold', ...
-        'HorizontalAlignment', 'right', ...
-        'VerticalAlignment', 'top', ...
-        'Clipping', 'off');
-end
 
 function plot_one_metric_enhanced(title_str, means, ci_lo, ci_hi, p_vec_dir, expect_dir, colors)
     % Plot colored bars, error bars, significance stars and p values.

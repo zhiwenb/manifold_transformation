@@ -1,7 +1,7 @@
 function run_figures(panels)
 % Draw available figure panels from original FR and saved historical results.
 % Examples: run_figures({'fig4BCD','fig4E','fig4F','fig5B','fig5C'})
-%           run_figures('fig4BCD_mixed')
+%           run_figures('fig4BCD_checked')
 root = fileparts(mfilename('fullpath'));
 addpath(root);
 prepare_inputs();
@@ -12,7 +12,7 @@ end
 if ischar(panels) || isstring(panels), panels = cellstr(panels); end
 for k = 1:numel(panels)
     panel = char(panels{k});
-    assert(~isempty(regexp(panel, '^fig[2-5][A-F]+(_mixed|_global|_recomputed|_delta|_checked)?$', 'once')), ...
+    assert(~isempty(regexp(panel, '^fig[2-5][A-F]+(_global|_checked)?$', 'once')), ...
         'Invalid panel name.');
     script = fullfile(root, 'panels', [panel '.m']);
     assert(isfile(script), 'Unavailable panel: %s', panel);
