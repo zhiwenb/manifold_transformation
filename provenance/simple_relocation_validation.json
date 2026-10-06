@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "panel": "fig4E",
+  "layout": "five main sessions and extra_var",
+  "location": "independent temporary checkout",
+  "paired_units": 50,
+  "mean_delta": -0.37365,
+  "paired_t_p": 0.664923
+}
