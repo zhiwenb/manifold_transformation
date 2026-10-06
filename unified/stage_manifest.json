@@ -1,0 +1,6902 @@
+[
+  {
+    "scenario": "stored_cross__matched__thirds",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216"
+    ],
+    "late_dates": [
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__thirds",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041416"
+    ],
+    "late_dates": [
+      "042116",
+      "042416",
+      "042516"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__thirds",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__thirds",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__thirds",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__thirds",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__thirds",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__thirds",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417"
+    ],
+    "late_dates": [
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__thirds",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318",
+      "081518"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__thirds",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082218"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__halves",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216",
+      "041816"
+    ],
+    "late_dates": [
+      "042716",
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__halves",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816"
+    ],
+    "late_dates": [
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__halves",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__halves",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__halves",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217",
+      "071617"
+    ],
+    "late_dates": [
+      "071917",
+      "072217"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__halves",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117",
+      "071517"
+    ],
+    "late_dates": [
+      "071717",
+      "072017"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__halves",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__halves",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417",
+      "092717"
+    ],
+    "late_dates": [
+      "092917",
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__halves",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318",
+      "081518",
+      "081718"
+    ],
+    "late_dates": [
+      "082018",
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__halves",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218",
+      "081518"
+    ],
+    "late_dates": [
+      "082018",
+      "082218"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__first_last",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116"
+    ],
+    "late_dates": [
+      "042916"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__first_last",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716"
+    ],
+    "late_dates": [
+      "042516"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__first_last",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__first_last",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__first_last",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__first_last",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__first_last",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__first_last",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217"
+    ],
+    "late_dates": [
+      "100317"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__first_last",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318"
+    ],
+    "late_dates": [
+      "082418"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__first_last",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082218"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__calendar_thirds",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216"
+    ],
+    "late_dates": [
+      "042716",
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__calendar_thirds",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041416"
+    ],
+    "late_dates": [
+      "042516"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__calendar_thirds",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__calendar_thirds",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217",
+      "031517"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__calendar_thirds",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__calendar_thirds",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__calendar_thirds",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__calendar_thirds",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417",
+      "092717"
+    ],
+    "late_dates": [
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__calendar_thirds",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "stored_cross__matched__calendar_thirds",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082218"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__thirds",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216"
+    ],
+    "late_dates": [
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__thirds",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041416"
+    ],
+    "late_dates": [
+      "042116",
+      "042416",
+      "042516"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__thirds",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__thirds",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__thirds",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__thirds",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__thirds",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__thirds",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417"
+    ],
+    "late_dates": [
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__thirds",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318",
+      "081518"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__thirds",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082218"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__halves",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216",
+      "041816"
+    ],
+    "late_dates": [
+      "042716",
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__halves",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816"
+    ],
+    "late_dates": [
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__halves",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__halves",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__halves",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217",
+      "071617"
+    ],
+    "late_dates": [
+      "071917",
+      "072217"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__halves",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117",
+      "071517"
+    ],
+    "late_dates": [
+      "071717",
+      "072017"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__halves",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__halves",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417",
+      "092717"
+    ],
+    "late_dates": [
+      "092917",
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__halves",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318",
+      "081518",
+      "081718"
+    ],
+    "late_dates": [
+      "082018",
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__halves",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218",
+      "081518"
+    ],
+    "late_dates": [
+      "082018",
+      "082218"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__first_last",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116"
+    ],
+    "late_dates": [
+      "042916"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__first_last",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716"
+    ],
+    "late_dates": [
+      "042516"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__first_last",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__first_last",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__first_last",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__first_last",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__first_last",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__first_last",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217"
+    ],
+    "late_dates": [
+      "100317"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__first_last",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318"
+    ],
+    "late_dates": [
+      "082418"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__first_last",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082218"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__calendar_thirds",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216"
+    ],
+    "late_dates": [
+      "042716",
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__calendar_thirds",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041416"
+    ],
+    "late_dates": [
+      "042516"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__calendar_thirds",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__calendar_thirds",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217",
+      "031517"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__calendar_thirds",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__calendar_thirds",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__calendar_thirds",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__calendar_thirds",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417",
+      "092717"
+    ],
+    "late_dates": [
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__calendar_thirds",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "stored_cross_common_labels__matched__calendar_thirds",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082218"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__thirds",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216"
+    ],
+    "late_dates": [
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__thirds",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041416"
+    ],
+    "late_dates": [
+      "042116",
+      "042416",
+      "042516"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__thirds",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__thirds",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__thirds",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__thirds",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__thirds",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__thirds",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417"
+    ],
+    "late_dates": [
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__thirds",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318",
+      "081518"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__thirds",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082218"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__halves",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216",
+      "041816"
+    ],
+    "late_dates": [
+      "042716",
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__halves",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816"
+    ],
+    "late_dates": [
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__halves",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__halves",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__halves",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217",
+      "071617"
+    ],
+    "late_dates": [
+      "071917",
+      "072217"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__halves",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117",
+      "071517"
+    ],
+    "late_dates": [
+      "071717",
+      "072017"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__halves",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__halves",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417",
+      "092717"
+    ],
+    "late_dates": [
+      "092917",
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__halves",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318",
+      "081518",
+      "081718"
+    ],
+    "late_dates": [
+      "082018",
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__halves",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218",
+      "081518"
+    ],
+    "late_dates": [
+      "082018",
+      "082218"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__first_last",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116"
+    ],
+    "late_dates": [
+      "042916"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__first_last",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716"
+    ],
+    "late_dates": [
+      "042516"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__first_last",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__first_last",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__first_last",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__first_last",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__first_last",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__first_last",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217"
+    ],
+    "late_dates": [
+      "100317"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__first_last",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318"
+    ],
+    "late_dates": [
+      "082418"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__first_last",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082218"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__calendar_thirds",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216"
+    ],
+    "late_dates": [
+      "042716",
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__calendar_thirds",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041416"
+    ],
+    "late_dates": [
+      "042516"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__calendar_thirds",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__calendar_thirds",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217",
+      "031517"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__calendar_thirds",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__calendar_thirds",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__calendar_thirds",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__calendar_thirds",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417",
+      "092717"
+    ],
+    "late_dates": [
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__calendar_thirds",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "canonical__matched__calendar_thirds",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082218"
+    ]
+  },
+  {
+    "scenario": "canonical__all__thirds",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216"
+    ],
+    "late_dates": [
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "canonical__all__thirds",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041216",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041216"
+    ],
+    "late_dates": [
+      "042116",
+      "042416",
+      "042516"
+    ]
+  },
+  {
+    "scenario": "canonical__all__thirds",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "canonical__all__thirds",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "canonical__all__thirds",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "canonical__all__thirds",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "canonical__all__thirds",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "canonical__all__thirds",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417"
+    ],
+    "late_dates": [
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "canonical__all__thirds",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318",
+      "081518"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "canonical__all__thirds",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081218",
+      "081518"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "canonical__all__halves",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216",
+      "041816"
+    ],
+    "late_dates": [
+      "042716",
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "canonical__all__halves",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041216",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041216",
+      "041416",
+      "041716"
+    ],
+    "late_dates": [
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ]
+  },
+  {
+    "scenario": "canonical__all__halves",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "canonical__all__halves",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "canonical__all__halves",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217",
+      "071617"
+    ],
+    "late_dates": [
+      "071917",
+      "072217"
+    ]
+  },
+  {
+    "scenario": "canonical__all__halves",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117",
+      "071517"
+    ],
+    "late_dates": [
+      "071717",
+      "072017"
+    ]
+  },
+  {
+    "scenario": "canonical__all__halves",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "canonical__all__halves",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417",
+      "092717"
+    ],
+    "late_dates": [
+      "092917",
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "canonical__all__halves",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318",
+      "081518",
+      "081718"
+    ],
+    "late_dates": [
+      "082018",
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "canonical__all__halves",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081218",
+      "081518",
+      "081818"
+    ],
+    "late_dates": [
+      "082018",
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "canonical__all__first_last",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116"
+    ],
+    "late_dates": [
+      "042916"
+    ]
+  },
+  {
+    "scenario": "canonical__all__first_last",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041216",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716"
+    ],
+    "late_dates": [
+      "042516"
+    ]
+  },
+  {
+    "scenario": "canonical__all__first_last",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "canonical__all__first_last",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "canonical__all__first_last",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "canonical__all__first_last",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "canonical__all__first_last",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "canonical__all__first_last",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217"
+    ],
+    "late_dates": [
+      "100317"
+    ]
+  },
+  {
+    "scenario": "canonical__all__first_last",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318"
+    ],
+    "late_dates": [
+      "082418"
+    ]
+  },
+  {
+    "scenario": "canonical__all__first_last",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082418"
+    ]
+  },
+  {
+    "scenario": "canonical__all__calendar_thirds",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216"
+    ],
+    "late_dates": [
+      "042716",
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "canonical__all__calendar_thirds",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041216",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041216",
+      "041416"
+    ],
+    "late_dates": [
+      "042516"
+    ]
+  },
+  {
+    "scenario": "canonical__all__calendar_thirds",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "canonical__all__calendar_thirds",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217",
+      "031517"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "canonical__all__calendar_thirds",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "canonical__all__calendar_thirds",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "canonical__all__calendar_thirds",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "canonical__all__calendar_thirds",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417",
+      "092717"
+    ],
+    "late_dates": [
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "canonical__all__calendar_thirds",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "canonical__all__calendar_thirds",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__thirds",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216"
+    ],
+    "late_dates": [
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__thirds",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041416"
+    ],
+    "late_dates": [
+      "042116",
+      "042416",
+      "042516"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__thirds",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__thirds",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__thirds",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__thirds",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__thirds",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__thirds",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417"
+    ],
+    "late_dates": [
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__thirds",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318",
+      "081518"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__thirds",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082218"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__halves",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216",
+      "041816"
+    ],
+    "late_dates": [
+      "042716",
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__halves",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816"
+    ],
+    "late_dates": [
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__halves",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__halves",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__halves",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217",
+      "071617"
+    ],
+    "late_dates": [
+      "071917",
+      "072217"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__halves",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117",
+      "071517"
+    ],
+    "late_dates": [
+      "071717",
+      "072017"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__halves",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__halves",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417",
+      "092717"
+    ],
+    "late_dates": [
+      "092917",
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__halves",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318",
+      "081518",
+      "081718"
+    ],
+    "late_dates": [
+      "082018",
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__halves",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218",
+      "081518"
+    ],
+    "late_dates": [
+      "082018",
+      "082218"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__first_last",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116"
+    ],
+    "late_dates": [
+      "042916"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__first_last",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716"
+    ],
+    "late_dates": [
+      "042516"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__first_last",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__first_last",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__first_last",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__first_last",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__first_last",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__first_last",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217"
+    ],
+    "late_dates": [
+      "100317"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__first_last",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318"
+    ],
+    "late_dates": [
+      "082418"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__first_last",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082218"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__calendar_thirds",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216"
+    ],
+    "late_dates": [
+      "042716",
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__calendar_thirds",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041416"
+    ],
+    "late_dates": [
+      "042516"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__calendar_thirds",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__calendar_thirds",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217",
+      "031517"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__calendar_thirds",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__calendar_thirds",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__calendar_thirds",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__calendar_thirds",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417",
+      "092717"
+    ],
+    "late_dates": [
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__calendar_thirds",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "union_native__matched__calendar_thirds",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082218"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__thirds",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216"
+    ],
+    "late_dates": [
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__thirds",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041416"
+    ],
+    "late_dates": [
+      "042116",
+      "042416",
+      "042516"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__thirds",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__thirds",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__thirds",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__thirds",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__thirds",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__thirds",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417"
+    ],
+    "late_dates": [
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__thirds",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318",
+      "081518"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__thirds",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082218"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__halves",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216",
+      "041816"
+    ],
+    "late_dates": [
+      "042716",
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__halves",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816"
+    ],
+    "late_dates": [
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__halves",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__halves",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__halves",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217",
+      "071617"
+    ],
+    "late_dates": [
+      "071917",
+      "072217"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__halves",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117",
+      "071517"
+    ],
+    "late_dates": [
+      "071717",
+      "072017"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__halves",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__halves",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417",
+      "092717"
+    ],
+    "late_dates": [
+      "092917",
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__halves",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318",
+      "081518",
+      "081718"
+    ],
+    "late_dates": [
+      "082018",
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__halves",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218",
+      "081518"
+    ],
+    "late_dates": [
+      "082018",
+      "082218"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__first_last",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116"
+    ],
+    "late_dates": [
+      "042916"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__first_last",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716"
+    ],
+    "late_dates": [
+      "042516"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__first_last",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__first_last",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__first_last",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__first_last",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__first_last",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__first_last",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217"
+    ],
+    "late_dates": [
+      "100317"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__first_last",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318"
+    ],
+    "late_dates": [
+      "082418"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__first_last",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082218"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__calendar_thirds",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216"
+    ],
+    "late_dates": [
+      "042716",
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__calendar_thirds",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041416"
+    ],
+    "late_dates": [
+      "042516"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__calendar_thirds",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__calendar_thirds",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217",
+      "031517"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__calendar_thirds",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__calendar_thirds",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__calendar_thirds",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__calendar_thirds",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417",
+      "092717"
+    ],
+    "late_dates": [
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__calendar_thirds",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "union_common240__matched__calendar_thirds",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082218"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__thirds",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216"
+    ],
+    "late_dates": [
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__thirds",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041216",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041216"
+    ],
+    "late_dates": [
+      "042116",
+      "042416",
+      "042516"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__thirds",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__thirds",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__thirds",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__thirds",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__thirds",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__thirds",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417"
+    ],
+    "late_dates": [
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__thirds",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318",
+      "081518"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__thirds",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081218",
+      "081518"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__halves",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216",
+      "041816"
+    ],
+    "late_dates": [
+      "042716",
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__halves",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041216",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041216",
+      "041416",
+      "041716"
+    ],
+    "late_dates": [
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__halves",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__halves",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__halves",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217",
+      "071617"
+    ],
+    "late_dates": [
+      "071917",
+      "072217"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__halves",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117",
+      "071517"
+    ],
+    "late_dates": [
+      "071717",
+      "072017"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__halves",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__halves",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417",
+      "092717"
+    ],
+    "late_dates": [
+      "092917",
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__halves",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318",
+      "081518",
+      "081718"
+    ],
+    "late_dates": [
+      "082018",
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__halves",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081218",
+      "081518",
+      "081818"
+    ],
+    "late_dates": [
+      "082018",
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__first_last",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116"
+    ],
+    "late_dates": [
+      "042916"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__first_last",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041216",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716"
+    ],
+    "late_dates": [
+      "042516"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__first_last",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__first_last",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__first_last",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__first_last",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__first_last",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__first_last",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217"
+    ],
+    "late_dates": [
+      "100317"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__first_last",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318"
+    ],
+    "late_dates": [
+      "082418"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__first_last",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082418"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__calendar_thirds",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216"
+    ],
+    "late_dates": [
+      "042716",
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__calendar_thirds",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041216",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041216",
+      "041416"
+    ],
+    "late_dates": [
+      "042516"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__calendar_thirds",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__calendar_thirds",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217",
+      "031517"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__calendar_thirds",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__calendar_thirds",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__calendar_thirds",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__calendar_thirds",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417",
+      "092717"
+    ],
+    "late_dates": [
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__calendar_thirds",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "union_common240__all__calendar_thirds",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__thirds",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216"
+    ],
+    "late_dates": [
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__thirds",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041416"
+    ],
+    "late_dates": [
+      "042116",
+      "042416",
+      "042516"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__thirds",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__thirds",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__thirds",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__thirds",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__thirds",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__thirds",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417"
+    ],
+    "late_dates": [
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__thirds",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318",
+      "081518"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__thirds",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082218"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__halves",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216",
+      "041816"
+    ],
+    "late_dates": [
+      "042716",
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__halves",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816"
+    ],
+    "late_dates": [
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__halves",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__halves",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__halves",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217",
+      "071617"
+    ],
+    "late_dates": [
+      "071917",
+      "072217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__halves",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117",
+      "071517"
+    ],
+    "late_dates": [
+      "071717",
+      "072017"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__halves",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__halves",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417",
+      "092717"
+    ],
+    "late_dates": [
+      "092917",
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__halves",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318",
+      "081518",
+      "081718"
+    ],
+    "late_dates": [
+      "082018",
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__halves",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218",
+      "081518"
+    ],
+    "late_dates": [
+      "082018",
+      "082218"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__first_last",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116"
+    ],
+    "late_dates": [
+      "042916"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__first_last",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716"
+    ],
+    "late_dates": [
+      "042516"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__first_last",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__first_last",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__first_last",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__first_last",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__first_last",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__first_last",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217"
+    ],
+    "late_dates": [
+      "100317"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__first_last",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318"
+    ],
+    "late_dates": [
+      "082418"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__first_last",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082218"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__calendar_thirds",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216"
+    ],
+    "late_dates": [
+      "042716",
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__calendar_thirds",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041416"
+    ],
+    "late_dates": [
+      "042516"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__calendar_thirds",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__calendar_thirds",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217",
+      "031517"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__calendar_thirds",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__calendar_thirds",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__calendar_thirds",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__calendar_thirds",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417",
+      "092717"
+    ],
+    "late_dates": [
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__calendar_thirds",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__matched__calendar_thirds",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082218"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__thirds",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216"
+    ],
+    "late_dates": [
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__thirds",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041216",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041216"
+    ],
+    "late_dates": [
+      "042116",
+      "042416",
+      "042516"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__thirds",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__thirds",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__thirds",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__thirds",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__thirds",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__thirds",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417"
+    ],
+    "late_dates": [
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__thirds",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318",
+      "081518"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__thirds",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081218",
+      "081518"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__halves",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216",
+      "041816"
+    ],
+    "late_dates": [
+      "042716",
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__halves",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041216",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041216",
+      "041416",
+      "041716"
+    ],
+    "late_dates": [
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__halves",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__halves",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__halves",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217",
+      "071617"
+    ],
+    "late_dates": [
+      "071917",
+      "072217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__halves",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117",
+      "071517"
+    ],
+    "late_dates": [
+      "071717",
+      "072017"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__halves",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__halves",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417",
+      "092717"
+    ],
+    "late_dates": [
+      "092917",
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__halves",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318",
+      "081518",
+      "081718"
+    ],
+    "late_dates": [
+      "082018",
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__halves",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081218",
+      "081518",
+      "081818"
+    ],
+    "late_dates": [
+      "082018",
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__first_last",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116"
+    ],
+    "late_dates": [
+      "042916"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__first_last",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041216",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716"
+    ],
+    "late_dates": [
+      "042516"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__first_last",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [
+      "031617"
+    ],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__first_last",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__first_last",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__first_last",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__first_last",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [
+      "092817"
+    ],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__first_last",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217"
+    ],
+    "late_dates": [
+      "100317"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__first_last",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318"
+    ],
+    "late_dates": [
+      "082418"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__first_last",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082418"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__calendar_thirds",
+    "session": "s1",
+    "mode": "var",
+    "available_dates": [
+      "041116",
+      "041216",
+      "041816",
+      "042716",
+      "042816",
+      "042916"
+    ],
+    "early_dates": [
+      "041116",
+      "041216"
+    ],
+    "late_dates": [
+      "042716",
+      "042816",
+      "042916"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__calendar_thirds",
+    "session": "s1",
+    "mode": "global",
+    "available_dates": [
+      "040716",
+      "041116",
+      "041216",
+      "041416",
+      "041716",
+      "041816",
+      "041916",
+      "042016",
+      "042116",
+      "042416",
+      "042516"
+    ],
+    "early_dates": [
+      "040716",
+      "041116",
+      "041216",
+      "041416"
+    ],
+    "late_dates": [
+      "042516"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__calendar_thirds",
+    "session": "s2",
+    "mode": "var",
+    "available_dates": [
+      "031617",
+      "031917",
+      "032217"
+    ],
+    "early_dates": [],
+    "late_dates": [
+      "032217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__calendar_thirds",
+    "session": "s2",
+    "mode": "global",
+    "available_dates": [
+      "031217",
+      "031517",
+      "032317"
+    ],
+    "early_dates": [
+      "031217",
+      "031517"
+    ],
+    "late_dates": [
+      "032317"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__calendar_thirds",
+    "session": "s3",
+    "mode": "var",
+    "available_dates": [
+      "071217",
+      "071617",
+      "071917",
+      "072217"
+    ],
+    "early_dates": [
+      "071217"
+    ],
+    "late_dates": [
+      "072217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__calendar_thirds",
+    "session": "s3",
+    "mode": "global",
+    "available_dates": [
+      "071117",
+      "071517",
+      "071717",
+      "072017"
+    ],
+    "early_dates": [
+      "071117"
+    ],
+    "late_dates": [
+      "072017"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__calendar_thirds",
+    "session": "s4",
+    "mode": "var",
+    "available_dates": [
+      "092817",
+      "093017",
+      "100217"
+    ],
+    "early_dates": [],
+    "late_dates": [
+      "100217"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__calendar_thirds",
+    "session": "s4",
+    "mode": "global",
+    "available_dates": [
+      "092217",
+      "092417",
+      "092717",
+      "092917",
+      "100117",
+      "100317"
+    ],
+    "early_dates": [
+      "092217",
+      "092417",
+      "092717"
+    ],
+    "late_dates": [
+      "100117",
+      "100317"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__calendar_thirds",
+    "session": "s5",
+    "mode": "var",
+    "available_dates": [
+      "081318",
+      "081518",
+      "081718",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081318"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  },
+  {
+    "scenario": "fixed_count_common240__all__calendar_thirds",
+    "session": "s5",
+    "mode": "global",
+    "available_dates": [
+      "081218",
+      "081518",
+      "081818",
+      "082018",
+      "082218",
+      "082418"
+    ],
+    "early_dates": [
+      "081218"
+    ],
+    "late_dates": [
+      "082218",
+      "082418"
+    ]
+  }
+]

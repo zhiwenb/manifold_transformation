@@ -1,0 +1,19 @@
+{
+  "raw_FR_recordings": 52,
+  "raw_FR_max_error": 1.5987211554602254e-14,
+  "direct_fresh_daily_results": 206,
+  "fixed_count_recordings": 52,
+  "fixed_count_draws": 156,
+  "original_LOO_recordings": 44,
+  "summary_comparisons": 2220,
+  "parameter_mapping_check": {
+    "recordings": 30,
+    "max_RSA_difference": 0,
+    "mapping": "shared root getPara.m"
+  },
+  "manifold_scope": "one recording, n_t=1000; all-cohort MFT not validated",
+  "main_unchanged": true,
+  "independent_directory_run": "passed; cached full run and one fresh recording SDI/RSA comparison",
+  "report_pages": 8,
+  "packaged_candidate_FR_files": 104
+}

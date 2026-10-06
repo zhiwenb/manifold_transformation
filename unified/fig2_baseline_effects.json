@@ -1,0 +1,542 @@
+[
+  {
+    "metric": "sdi",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "cache_baseline",
+    "baseline_date": "041116",
+    "post_date": "041816",
+    "effect": 11.580357256595113
+  },
+  {
+    "metric": "sdi",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "cache_baseline",
+    "baseline_date": "041116",
+    "post_date": "042716",
+    "effect": 54.992846667684766
+  },
+  {
+    "metric": "sdi",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "cache_baseline",
+    "baseline_date": "041116",
+    "post_date": "042816",
+    "effect": 26.365567896378806
+  },
+  {
+    "metric": "sdi",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "cache_baseline",
+    "baseline_date": "041116",
+    "post_date": "042916",
+    "effect": 29.110027422099584
+  },
+  {
+    "metric": "sdi",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "fresh_cache_baseline",
+    "baseline_date": "041116",
+    "post_date": "041816",
+    "effect": 11.580357917737574
+  },
+  {
+    "metric": "sdi",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "fresh_cache_baseline",
+    "baseline_date": "041116",
+    "post_date": "042716",
+    "effect": 54.992848875490694
+  },
+  {
+    "metric": "sdi",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "fresh_cache_baseline",
+    "baseline_date": "041116",
+    "post_date": "042816",
+    "effect": 26.365568950965979
+  },
+  {
+    "metric": "sdi",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "fresh_cache_baseline",
+    "baseline_date": "041116",
+    "post_date": "042916",
+    "effect": 29.110024593291566
+  },
+  {
+    "metric": "sdi",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "baseline_date": "041116",
+    "post_date": "041816",
+    "effect": 11.580357917737574
+  },
+  {
+    "metric": "sdi",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "baseline_date": "041116",
+    "post_date": "042716",
+    "effect": 54.992848875490694
+  },
+  {
+    "metric": "sdi",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "baseline_date": "041116",
+    "post_date": "042816",
+    "effect": 26.365568950965979
+  },
+  {
+    "metric": "sdi",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "baseline_date": "041116",
+    "post_date": "042916",
+    "effect": 29.110024593291566
+  },
+  {
+    "metric": "sdi",
+    "session": "s2",
+    "animal": "M1",
+    "baseline_rule": "cache_baseline",
+    "baseline_date": "031617",
+    "post_date": "031917",
+    "effect": 3.6760378236195934
+  },
+  {
+    "metric": "sdi",
+    "session": "s2",
+    "animal": "M1",
+    "baseline_rule": "fresh_cache_baseline",
+    "baseline_date": "031617",
+    "post_date": "031917",
+    "effect": 3.6760378134417016
+  },
+  {
+    "metric": "sdi",
+    "session": "s2",
+    "animal": "M1",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "baseline_date": "031617",
+    "post_date": "031917",
+    "effect": 3.6760378134417016
+  },
+  {
+    "metric": "sdi",
+    "session": "s3",
+    "animal": "M2",
+    "baseline_rule": "cache_baseline",
+    "baseline_date": "071617",
+    "post_date": "071917",
+    "effect": 5.947916143349163
+  },
+  {
+    "metric": "sdi",
+    "session": "s3",
+    "animal": "M2",
+    "baseline_rule": "cache_baseline",
+    "baseline_date": "071617",
+    "post_date": "072217",
+    "effect": 0.29457736891793235
+  },
+  {
+    "metric": "sdi",
+    "session": "s3",
+    "animal": "M2",
+    "baseline_rule": "fresh_cache_baseline",
+    "baseline_date": "071617",
+    "post_date": "071917",
+    "effect": 5.9479130093401222
+  },
+  {
+    "metric": "sdi",
+    "session": "s3",
+    "animal": "M2",
+    "baseline_rule": "fresh_cache_baseline",
+    "baseline_date": "071617",
+    "post_date": "072217",
+    "effect": 0.29457460342024872
+  },
+  {
+    "metric": "sdi",
+    "session": "s3",
+    "animal": "M2",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "baseline_date": "071217",
+    "post_date": "071917",
+    "effect": 1.7074421523189873
+  },
+  {
+    "metric": "sdi",
+    "session": "s3",
+    "animal": "M2",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "baseline_date": "071217",
+    "post_date": "072217",
+    "effect": -4.5545020184216956
+  },
+  {
+    "metric": "sdi",
+    "session": "s5",
+    "animal": "M2",
+    "baseline_rule": "cache_baseline",
+    "baseline_date": "081518",
+    "post_date": "082018",
+    "effect": 8.653906657590376
+  },
+  {
+    "metric": "sdi",
+    "session": "s5",
+    "animal": "M2",
+    "baseline_rule": "cache_baseline",
+    "baseline_date": "081518",
+    "post_date": "082218",
+    "effect": 6.0479590954077542
+  },
+  {
+    "metric": "sdi",
+    "session": "s5",
+    "animal": "M2",
+    "baseline_rule": "cache_baseline",
+    "baseline_date": "081518",
+    "post_date": "082418",
+    "effect": 8.75057786542206
+  },
+  {
+    "metric": "sdi",
+    "session": "s5",
+    "animal": "M2",
+    "baseline_rule": "fresh_cache_baseline",
+    "baseline_date": "081518",
+    "post_date": "082018",
+    "effect": 8.65390808171248
+  },
+  {
+    "metric": "sdi",
+    "session": "s5",
+    "animal": "M2",
+    "baseline_rule": "fresh_cache_baseline",
+    "baseline_date": "081518",
+    "post_date": "082218",
+    "effect": 6.0479582011856543
+  },
+  {
+    "metric": "sdi",
+    "session": "s5",
+    "animal": "M2",
+    "baseline_rule": "fresh_cache_baseline",
+    "baseline_date": "081518",
+    "post_date": "082418",
+    "effect": 8.7505758426030429
+  },
+  {
+    "metric": "sdi",
+    "session": "s5",
+    "animal": "M2",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "baseline_date": "081318",
+    "post_date": "082018",
+    "effect": -4.0353334486572914
+  },
+  {
+    "metric": "sdi",
+    "session": "s5",
+    "animal": "M2",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "baseline_date": "081318",
+    "post_date": "082218",
+    "effect": -2.9915758337985907
+  },
+  {
+    "metric": "sdi",
+    "session": "s5",
+    "animal": "M2",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "baseline_date": "081318",
+    "post_date": "082418",
+    "effect": -4.0651605101201032
+  },
+  {
+    "metric": "svm",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "cache_baseline",
+    "baseline_date": "041116",
+    "post_date": "041816",
+    "effect": 12.67619178784798
+  },
+  {
+    "metric": "svm",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "cache_baseline",
+    "baseline_date": "041116",
+    "post_date": "042716",
+    "effect": 32.186582829136754
+  },
+  {
+    "metric": "svm",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "cache_baseline",
+    "baseline_date": "041116",
+    "post_date": "042816",
+    "effect": 3.1114099278000489
+  },
+  {
+    "metric": "svm",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "cache_baseline",
+    "baseline_date": "041116",
+    "post_date": "042916",
+    "effect": 24.849809560897793
+  },
+  {
+    "metric": "svm",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "fresh_cache_baseline",
+    "baseline_date": "041116",
+    "post_date": "041816",
+    "effect": 13.624697826480519
+  },
+  {
+    "metric": "svm",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "fresh_cache_baseline",
+    "baseline_date": "041116",
+    "post_date": "042716",
+    "effect": 29.397001870724786
+  },
+  {
+    "metric": "svm",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "fresh_cache_baseline",
+    "baseline_date": "041116",
+    "post_date": "042816",
+    "effect": 2.9720638774662556
+  },
+  {
+    "metric": "svm",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "fresh_cache_baseline",
+    "baseline_date": "041116",
+    "post_date": "042916",
+    "effect": 24.675817953988
+  },
+  {
+    "metric": "svm",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "baseline_date": "041116",
+    "post_date": "041816",
+    "effect": 13.624697826480519
+  },
+  {
+    "metric": "svm",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "baseline_date": "041116",
+    "post_date": "042716",
+    "effect": 29.397001870724786
+  },
+  {
+    "metric": "svm",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "baseline_date": "041116",
+    "post_date": "042816",
+    "effect": 2.9720638774662556
+  },
+  {
+    "metric": "svm",
+    "session": "s1",
+    "animal": "M1",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "baseline_date": "041116",
+    "post_date": "042916",
+    "effect": 24.675817953988
+  },
+  {
+    "metric": "svm",
+    "session": "s2",
+    "animal": "M1",
+    "baseline_rule": "cache_baseline",
+    "baseline_date": "031617",
+    "post_date": "031917",
+    "effect": 5.9174543898549032
+  },
+  {
+    "metric": "svm",
+    "session": "s2",
+    "animal": "M1",
+    "baseline_rule": "fresh_cache_baseline",
+    "baseline_date": "031617",
+    "post_date": "031917",
+    "effect": 5.57867159808908
+  },
+  {
+    "metric": "svm",
+    "session": "s2",
+    "animal": "M1",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "baseline_date": "031617",
+    "post_date": "031917",
+    "effect": 5.57867159808908
+  },
+  {
+    "metric": "svm",
+    "session": "s3",
+    "animal": "M2",
+    "baseline_rule": "cache_baseline",
+    "baseline_date": "071617",
+    "post_date": "071917",
+    "effect": 8.7912574341635885
+  },
+  {
+    "metric": "svm",
+    "session": "s3",
+    "animal": "M2",
+    "baseline_rule": "cache_baseline",
+    "baseline_date": "071617",
+    "post_date": "072217",
+    "effect": 10.644805333732412
+  },
+  {
+    "metric": "svm",
+    "session": "s3",
+    "animal": "M2",
+    "baseline_rule": "fresh_cache_baseline",
+    "baseline_date": "071617",
+    "post_date": "071917",
+    "effect": 8.9371741378056822
+  },
+  {
+    "metric": "svm",
+    "session": "s3",
+    "animal": "M2",
+    "baseline_rule": "fresh_cache_baseline",
+    "baseline_date": "071617",
+    "post_date": "072217",
+    "effect": 10.644805333732426
+  },
+  {
+    "metric": "svm",
+    "session": "s3",
+    "animal": "M2",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "baseline_date": "071217",
+    "post_date": "071917",
+    "effect": 4.1172236279557159
+  },
+  {
+    "metric": "svm",
+    "session": "s3",
+    "animal": "M2",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "baseline_date": "071217",
+    "post_date": "072217",
+    "effect": 5.5662682139429505
+  },
+  {
+    "metric": "svm",
+    "session": "s5",
+    "animal": "M2",
+    "baseline_rule": "cache_baseline",
+    "baseline_date": "081518",
+    "post_date": "082018",
+    "effect": 4.8574068875164143
+  },
+  {
+    "metric": "svm",
+    "session": "s5",
+    "animal": "M2",
+    "baseline_rule": "cache_baseline",
+    "baseline_date": "081518",
+    "post_date": "082218",
+    "effect": 4.7172739156372963
+  },
+  {
+    "metric": "svm",
+    "session": "s5",
+    "animal": "M2",
+    "baseline_rule": "cache_baseline",
+    "baseline_date": "081518",
+    "post_date": "082418",
+    "effect": 6.2100821167883362
+  },
+  {
+    "metric": "svm",
+    "session": "s5",
+    "animal": "M2",
+    "baseline_rule": "fresh_cache_baseline",
+    "baseline_date": "081518",
+    "post_date": "082018",
+    "effect": 6.2737687192960756
+  },
+  {
+    "metric": "svm",
+    "session": "s5",
+    "animal": "M2",
+    "baseline_rule": "fresh_cache_baseline",
+    "baseline_date": "081518",
+    "post_date": "082218",
+    "effect": 5.20505272382577
+  },
+  {
+    "metric": "svm",
+    "session": "s5",
+    "animal": "M2",
+    "baseline_rule": "fresh_cache_baseline",
+    "baseline_date": "081518",
+    "post_date": "082418",
+    "effect": 4.7967150975384651
+  },
+  {
+    "metric": "svm",
+    "session": "s5",
+    "animal": "M2",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "baseline_date": "081318",
+    "post_date": "082018",
+    "effect": -4.4553258941883858
+  },
+  {
+    "metric": "svm",
+    "session": "s5",
+    "animal": "M2",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "baseline_date": "081318",
+    "post_date": "082218",
+    "effect": -5.3319365318518015
+  },
+  {
+    "metric": "svm",
+    "session": "s5",
+    "animal": "M2",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "baseline_date": "081318",
+    "post_date": "082418",
+    "effect": -5.9534683500030479
+  }
+]

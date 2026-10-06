@@ -69,3 +69,7 @@ New results are saved to `outputs_analysis/` without replacing the supplied figu
 The plotting scripts use the supplied processed data and saved estimates. The separate analysis functions recompute estimates from processed firing rates; the released package does not provide an end-to-end reconstruction of every figure from raw spike recordings. Session membership and historical analysis subsets are retained. Fig. 3F uses 46 paired observations; Figs. 4E–F use 70 paired observations. Bootstrap intervals and point jitter may vary between runs.
 
 The default Fig. 4B–D script retains the original combination of variation data for M1 and global data for M2. It also retains the original significance-label behavior for figure reproduction. For significance labels calculated separately for each bar, use `fig4BCD_checked`; for global data in both animals, use `fig4BCD_global`.
+
+## Unified input comparison
+
+This branch includes processed candidate firing rates and a retrospective comparison of input versions, response windows, recording cohorts, stage definitions, and statistical units. See [unified analysis instructions](unified/README.md) and [the consistency report](unified/report/unified_analysis_report.pdf). The figure-only main branch is preserved.

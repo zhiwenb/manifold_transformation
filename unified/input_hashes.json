@@ -1,0 +1,418 @@
+[
+  {
+    "file": "unified/inputs/union_common240/s1/global/FR_s1_global_040716.mat",
+    "sha256": "f186dab724fb1b59eda0b4503ae5a365cedcc7fed54274bdbcfd5a7a9f1c8673"
+  },
+  {
+    "file": "unified/inputs/union_common240/s1/global/FR_s1_global_041116.mat",
+    "sha256": "f19eb4c23b076600ff321f9f9cd93cbebfed8f33e3d21c6e268390ce7d52d7e4"
+  },
+  {
+    "file": "unified/inputs/union_common240/s1/global/FR_s1_global_041216.mat",
+    "sha256": "5e6c42561b0cbed6b8d3cfac0a7fb693461c6655a5f0b9c33d1b6cfecd7d0263"
+  },
+  {
+    "file": "unified/inputs/union_common240/s1/global/FR_s1_global_041416.mat",
+    "sha256": "0e7c3d2f2fc9382095541c0af91af47bb6e125c790580dec399c07484057197e"
+  },
+  {
+    "file": "unified/inputs/union_common240/s1/global/FR_s1_global_041716.mat",
+    "sha256": "629ee50ff9b258c95748b0c1bb3f98dbede25b0ce8677cb9940b868e786302ee"
+  },
+  {
+    "file": "unified/inputs/union_common240/s1/global/FR_s1_global_041816.mat",
+    "sha256": "e9e55c759f9395570bfa72d5bbe04a3722eda20c2878c156805aa450c775427b"
+  },
+  {
+    "file": "unified/inputs/union_common240/s1/global/FR_s1_global_041916.mat",
+    "sha256": "fb2565ff6fbf575dd759c23b16bacd32ac25f12554b64cb537e33dc0275f3205"
+  },
+  {
+    "file": "unified/inputs/union_common240/s1/global/FR_s1_global_042016.mat",
+    "sha256": "d130b35c1eaf61b78e4a8da50c411e039947baa2b2d53a70aa97f16a4431c98f"
+  },
+  {
+    "file": "unified/inputs/union_common240/s1/global/FR_s1_global_042116.mat",
+    "sha256": "19c9afe86a3d1ebcee839d3fc7679a4239c84656fc8c52c1c7b13d462880c88f"
+  },
+  {
+    "file": "unified/inputs/union_common240/s1/global/FR_s1_global_042416.mat",
+    "sha256": "ece81d1e414ded23e0da732778902e9be63bab692a65e36bd8f603047ff5fd02"
+  },
+  {
+    "file": "unified/inputs/union_common240/s1/global/FR_s1_global_042516.mat",
+    "sha256": "aa48b8e79c8af98290bdb485554635a185d9b013e45abdee81fd4eb85bd4ce23"
+  },
+  {
+    "file": "unified/inputs/union_common240/s1/var/FR_s1_var_041116.mat",
+    "sha256": "f22c5fbba0f2a16f67bbe6afee2de896dcc7cd66ffaf6501dbda699555d3e0dc"
+  },
+  {
+    "file": "unified/inputs/union_common240/s1/var/FR_s1_var_041216.mat",
+    "sha256": "5cfcdae5687818ba31387ee23933c1fca60b73d4ce26c67f949d1d5bf3e8aa0b"
+  },
+  {
+    "file": "unified/inputs/union_common240/s1/var/FR_s1_var_041816.mat",
+    "sha256": "23da418c33ce94ecc714b8c8eb73814f6130f5acb5c7da9495a2c9ae1b94dacf"
+  },
+  {
+    "file": "unified/inputs/union_common240/s1/var/FR_s1_var_042716.mat",
+    "sha256": "bcc882678a4c8f7a29846091ed392e416e68e7e5ea46023136cb2ffed1a6d859"
+  },
+  {
+    "file": "unified/inputs/union_common240/s1/var/FR_s1_var_042816.mat",
+    "sha256": "b9ca6001ef1997dc55ef55c576740cab56d3f1a5430eb664250bc560bc70a6a0"
+  },
+  {
+    "file": "unified/inputs/union_common240/s1/var/FR_s1_var_042916.mat",
+    "sha256": "5d2c492db50b3da915a303b6268cb4ed854b947526546e48a7609d3f87d67ae3"
+  },
+  {
+    "file": "unified/inputs/union_common240/s2/global/FR_s2_global_031217.mat",
+    "sha256": "bebe9fc1acaaf66b3f8869e47d70ca38c2f74253151ec44ed342c2c05d6090a1"
+  },
+  {
+    "file": "unified/inputs/union_common240/s2/global/FR_s2_global_031517.mat",
+    "sha256": "5c7e6008da6c89f2f9cf6ddfd4be349da1370f60fb16c47f10cca55eb6616bb1"
+  },
+  {
+    "file": "unified/inputs/union_common240/s2/global/FR_s2_global_032317.mat",
+    "sha256": "977d0ea4103696bf97f8872a2c76ae69d43d33316b32c17e1d7834fa75a0b46e"
+  },
+  {
+    "file": "unified/inputs/union_common240/s2/var/FR_s2_var_031617.mat",
+    "sha256": "c3a9a4009e3c20fe2751ad74f0cb003f62ca917a5c377a0e3bf1d238dff0301c"
+  },
+  {
+    "file": "unified/inputs/union_common240/s2/var/FR_s2_var_031917.mat",
+    "sha256": "df73c7de63e47e708343e69878ad7f4a557e7e32c70e94773fd69ba2c4d10fe9"
+  },
+  {
+    "file": "unified/inputs/union_common240/s2/var/FR_s2_var_032217.mat",
+    "sha256": "a97896cf5d876e14f53b7a4ecf3f5bd51f5b8b074e74f57e335c54fd65ae69e4"
+  },
+  {
+    "file": "unified/inputs/union_common240/s3/global/FR_s3_global_071117.mat",
+    "sha256": "4eff9f51f7ab6d6d9b2f32493d102657bcd7b364acd5324d0e941e7b9749d173"
+  },
+  {
+    "file": "unified/inputs/union_common240/s3/global/FR_s3_global_071517.mat",
+    "sha256": "72632e622e7eb00c253502d150793e35b4a483ca006f2a7dc16f3930dc16e42e"
+  },
+  {
+    "file": "unified/inputs/union_common240/s3/global/FR_s3_global_071717.mat",
+    "sha256": "f9a8a263ef06697be0715bddc097a11a091618d5c1e12d3c0842b3c6db529379"
+  },
+  {
+    "file": "unified/inputs/union_common240/s3/global/FR_s3_global_072017.mat",
+    "sha256": "42b2caad705479e5963eb1875210d6567f298052e9101009499218afc1c96a3f"
+  },
+  {
+    "file": "unified/inputs/union_common240/s3/var/FR_s3_var_071217.mat",
+    "sha256": "bc11ee662a45e827fce3c817265b4022eb52d059d691348e6ea79d8d1cef9b1c"
+  },
+  {
+    "file": "unified/inputs/union_common240/s3/var/FR_s3_var_071617.mat",
+    "sha256": "f81c200654cc282d057523611ae1128691d576a6ba292e12a7215eae3dbd751f"
+  },
+  {
+    "file": "unified/inputs/union_common240/s3/var/FR_s3_var_071917.mat",
+    "sha256": "79639390b3212604af1b919615c17155419349c32bcaaf48dbf35b0d7ca78dad"
+  },
+  {
+    "file": "unified/inputs/union_common240/s3/var/FR_s3_var_072217.mat",
+    "sha256": "8fff3af4ad9cb64124283124b8a938090fe917700f3ab1eb25f0fb783a584652"
+  },
+  {
+    "file": "unified/inputs/union_common240/s4/global/FR_s4_global_092217.mat",
+    "sha256": "e53a35a0bf378c87b0e8feb5cf8499a1d22412b05f49e2997c4dd55effbc3103"
+  },
+  {
+    "file": "unified/inputs/union_common240/s4/global/FR_s4_global_092417.mat",
+    "sha256": "910b48235635748da83136a41457a84d3df73e3c9b7f12053387a5e2257d3af0"
+  },
+  {
+    "file": "unified/inputs/union_common240/s4/global/FR_s4_global_092717.mat",
+    "sha256": "da272ba851b8c4354d110c2f14529c27fd64d136818134d5aabdd111f1a09a28"
+  },
+  {
+    "file": "unified/inputs/union_common240/s4/global/FR_s4_global_092917.mat",
+    "sha256": "9800cc56df0b25f571eb3a54e9714aaa6cd3d1461a83ee749fa54a7a05a89ef3"
+  },
+  {
+    "file": "unified/inputs/union_common240/s4/global/FR_s4_global_100117.mat",
+    "sha256": "cb504f2f121ae13b9fc8f19b17c676b707531c963781c7adc6ec53ca436e256d"
+  },
+  {
+    "file": "unified/inputs/union_common240/s4/global/FR_s4_global_100317.mat",
+    "sha256": "354e29edc640527168222025e1b02d64139e33e54f06aee68e98dde7d17c8bc1"
+  },
+  {
+    "file": "unified/inputs/union_common240/s4/var/FR_s4_var_092817.mat",
+    "sha256": "9e99a697f20ac9b83b46a1820a92913cc3cd39e89305cf491ad51582bf50f68b"
+  },
+  {
+    "file": "unified/inputs/union_common240/s4/var/FR_s4_var_093017.mat",
+    "sha256": "b44d2cd4fcee56a7612b95910d6c8577e6a81af2adfa5800a55589278b29dd59"
+  },
+  {
+    "file": "unified/inputs/union_common240/s4/var/FR_s4_var_100217.mat",
+    "sha256": "3eff0a7941defd34ee40ee247ae705a3c67055453d576c3a7a1c454d365a667e"
+  },
+  {
+    "file": "unified/inputs/union_common240/s5/global/FR_s5_global_081218.mat",
+    "sha256": "a81a7a5b45bafbda34055e14ef983d6a4f7b8f9a36aad5224bd05aaed642a4a1"
+  },
+  {
+    "file": "unified/inputs/union_common240/s5/global/FR_s5_global_081518.mat",
+    "sha256": "f587c2173d3d0e0becc5549b9eea7f3a2def65d673cbb390ce807dc12e1a4509"
+  },
+  {
+    "file": "unified/inputs/union_common240/s5/global/FR_s5_global_081818.mat",
+    "sha256": "45853df392f626c0931385700a052e56b82a0337e6414395bcc2e7e3ed0a97c3"
+  },
+  {
+    "file": "unified/inputs/union_common240/s5/global/FR_s5_global_082018.mat",
+    "sha256": "0fa742333a3212a3b6ffef89d810942f3a2f74cbe3d6c1aaccde800129932b6c"
+  },
+  {
+    "file": "unified/inputs/union_common240/s5/global/FR_s5_global_082218.mat",
+    "sha256": "26eea068c9d0b2226258445072963d337be590aaf1afa75ba9fca4bbc582ffe9"
+  },
+  {
+    "file": "unified/inputs/union_common240/s5/global/FR_s5_global_082418.mat",
+    "sha256": "346e4f71a45eff6693f68e50ca4e24694ad0271483c12d96ed008732921c4385"
+  },
+  {
+    "file": "unified/inputs/union_common240/s5/var/FR_s5_var_081318.mat",
+    "sha256": "439978b81aa7d8e8b76297a83e65d100805613bb0c3395bbd54627bb724e089c"
+  },
+  {
+    "file": "unified/inputs/union_common240/s5/var/FR_s5_var_081518.mat",
+    "sha256": "6d70c354fc734c2f26caf16c29b7b2ec3fa424d323d659d28a3698314404d5d8"
+  },
+  {
+    "file": "unified/inputs/union_common240/s5/var/FR_s5_var_081718.mat",
+    "sha256": "fd282066ad0d86fdf05b7df53706732a2c3bc0837331bf8cae823786df20acf1"
+  },
+  {
+    "file": "unified/inputs/union_common240/s5/var/FR_s5_var_082018.mat",
+    "sha256": "1963e21bd730f4f969cfd1fc3fa4eab71bb97466c1d8d6cf2277c11a807cbb0b"
+  },
+  {
+    "file": "unified/inputs/union_common240/s5/var/FR_s5_var_082218.mat",
+    "sha256": "a8ec6846c7d359001e41b48a456abbbf649916073a9e33a6bca1cef77c5cff3d"
+  },
+  {
+    "file": "unified/inputs/union_common240/s5/var/FR_s5_var_082418.mat",
+    "sha256": "38c0de0f6284906484223c8adce85ff8ab72b1ab4b06b19c5df52ff669bfb310"
+  },
+  {
+    "file": "unified/inputs/union_native/s1/global/FR_s1_global_040716.mat",
+    "sha256": "f186dab724fb1b59eda0b4503ae5a365cedcc7fed54274bdbcfd5a7a9f1c8673"
+  },
+  {
+    "file": "unified/inputs/union_native/s1/global/FR_s1_global_041116.mat",
+    "sha256": "f19eb4c23b076600ff321f9f9cd93cbebfed8f33e3d21c6e268390ce7d52d7e4"
+  },
+  {
+    "file": "unified/inputs/union_native/s1/global/FR_s1_global_041216.mat",
+    "sha256": "5e6c42561b0cbed6b8d3cfac0a7fb693461c6655a5f0b9c33d1b6cfecd7d0263"
+  },
+  {
+    "file": "unified/inputs/union_native/s1/global/FR_s1_global_041416.mat",
+    "sha256": "0e7c3d2f2fc9382095541c0af91af47bb6e125c790580dec399c07484057197e"
+  },
+  {
+    "file": "unified/inputs/union_native/s1/global/FR_s1_global_041716.mat",
+    "sha256": "629ee50ff9b258c95748b0c1bb3f98dbede25b0ce8677cb9940b868e786302ee"
+  },
+  {
+    "file": "unified/inputs/union_native/s1/global/FR_s1_global_041816.mat",
+    "sha256": "e9e55c759f9395570bfa72d5bbe04a3722eda20c2878c156805aa450c775427b"
+  },
+  {
+    "file": "unified/inputs/union_native/s1/global/FR_s1_global_041916.mat",
+    "sha256": "fb2565ff6fbf575dd759c23b16bacd32ac25f12554b64cb537e33dc0275f3205"
+  },
+  {
+    "file": "unified/inputs/union_native/s1/global/FR_s1_global_042016.mat",
+    "sha256": "d130b35c1eaf61b78e4a8da50c411e039947baa2b2d53a70aa97f16a4431c98f"
+  },
+  {
+    "file": "unified/inputs/union_native/s1/global/FR_s1_global_042116.mat",
+    "sha256": "19c9afe86a3d1ebcee839d3fc7679a4239c84656fc8c52c1c7b13d462880c88f"
+  },
+  {
+    "file": "unified/inputs/union_native/s1/global/FR_s1_global_042416.mat",
+    "sha256": "ece81d1e414ded23e0da732778902e9be63bab692a65e36bd8f603047ff5fd02"
+  },
+  {
+    "file": "unified/inputs/union_native/s1/global/FR_s1_global_042516.mat",
+    "sha256": "aa48b8e79c8af98290bdb485554635a185d9b013e45abdee81fd4eb85bd4ce23"
+  },
+  {
+    "file": "unified/inputs/union_native/s1/var/FR_s1_var_041116.mat",
+    "sha256": "f22c5fbba0f2a16f67bbe6afee2de896dcc7cd66ffaf6501dbda699555d3e0dc"
+  },
+  {
+    "file": "unified/inputs/union_native/s1/var/FR_s1_var_041216.mat",
+    "sha256": "5cfcdae5687818ba31387ee23933c1fca60b73d4ce26c67f949d1d5bf3e8aa0b"
+  },
+  {
+    "file": "unified/inputs/union_native/s1/var/FR_s1_var_041816.mat",
+    "sha256": "23da418c33ce94ecc714b8c8eb73814f6130f5acb5c7da9495a2c9ae1b94dacf"
+  },
+  {
+    "file": "unified/inputs/union_native/s1/var/FR_s1_var_042716.mat",
+    "sha256": "bcc882678a4c8f7a29846091ed392e416e68e7e5ea46023136cb2ffed1a6d859"
+  },
+  {
+    "file": "unified/inputs/union_native/s1/var/FR_s1_var_042816.mat",
+    "sha256": "b9ca6001ef1997dc55ef55c576740cab56d3f1a5430eb664250bc560bc70a6a0"
+  },
+  {
+    "file": "unified/inputs/union_native/s1/var/FR_s1_var_042916.mat",
+    "sha256": "5d2c492db50b3da915a303b6268cb4ed854b947526546e48a7609d3f87d67ae3"
+  },
+  {
+    "file": "unified/inputs/union_native/s2/global/FR_s2_global_031217.mat",
+    "sha256": "bebe9fc1acaaf66b3f8869e47d70ca38c2f74253151ec44ed342c2c05d6090a1"
+  },
+  {
+    "file": "unified/inputs/union_native/s2/global/FR_s2_global_031517.mat",
+    "sha256": "5c7e6008da6c89f2f9cf6ddfd4be349da1370f60fb16c47f10cca55eb6616bb1"
+  },
+  {
+    "file": "unified/inputs/union_native/s2/global/FR_s2_global_032317.mat",
+    "sha256": "977d0ea4103696bf97f8872a2c76ae69d43d33316b32c17e1d7834fa75a0b46e"
+  },
+  {
+    "file": "unified/inputs/union_native/s2/var/FR_s2_var_031617.mat",
+    "sha256": "c3a9a4009e3c20fe2751ad74f0cb003f62ca917a5c377a0e3bf1d238dff0301c"
+  },
+  {
+    "file": "unified/inputs/union_native/s2/var/FR_s2_var_031917.mat",
+    "sha256": "df73c7de63e47e708343e69878ad7f4a557e7e32c70e94773fd69ba2c4d10fe9"
+  },
+  {
+    "file": "unified/inputs/union_native/s2/var/FR_s2_var_032217.mat",
+    "sha256": "a97896cf5d876e14f53b7a4ecf3f5bd51f5b8b074e74f57e335c54fd65ae69e4"
+  },
+  {
+    "file": "unified/inputs/union_native/s3/global/FR_s3_global_071117.mat",
+    "sha256": "899c561978b3d5572baf59bc2c66cbe6d8b65b16994b22108fb4ce924fda132b"
+  },
+  {
+    "file": "unified/inputs/union_native/s3/global/FR_s3_global_071517.mat",
+    "sha256": "fa1a6a35381f6c9d3fd3c18b8f5092ae4400a5716835e4fe87908af89400f058"
+  },
+  {
+    "file": "unified/inputs/union_native/s3/global/FR_s3_global_071717.mat",
+    "sha256": "b9655fa2d8457a6c24c522a15309b51cad57be3d3488af89a483c7d1fe4ca00a"
+  },
+  {
+    "file": "unified/inputs/union_native/s3/global/FR_s3_global_072017.mat",
+    "sha256": "2a3e6b92f8bf5659f326fd01c33d38d0fc78b1d945a51cf95599f574190314f4"
+  },
+  {
+    "file": "unified/inputs/union_native/s3/var/FR_s3_var_071217.mat",
+    "sha256": "a0c211e2cdb52cda3d9fcb04411f1f39bdff37a7175b4623b2b79ef24e3250df"
+  },
+  {
+    "file": "unified/inputs/union_native/s3/var/FR_s3_var_071617.mat",
+    "sha256": "8c57a3a4ae1d9084c58078e574e6fc89ea3dff1a17e1cd4275ee0387569afd64"
+  },
+  {
+    "file": "unified/inputs/union_native/s3/var/FR_s3_var_071917.mat",
+    "sha256": "92d75ab28b59db7405f3b7269e2c9709621a2ec072581d794406c8ad15f1fb51"
+  },
+  {
+    "file": "unified/inputs/union_native/s3/var/FR_s3_var_072217.mat",
+    "sha256": "69f2563e7c3d1f232e7d434b7e60b765fbe7943b40f7001999dec14846ca9b30"
+  },
+  {
+    "file": "unified/inputs/union_native/s4/global/FR_s4_global_092217.mat",
+    "sha256": "36cd4f02695c005e1a423c1fbf7447b3b300381707a73dec620779282acb33d3"
+  },
+  {
+    "file": "unified/inputs/union_native/s4/global/FR_s4_global_092417.mat",
+    "sha256": "02493990cceaf9fcdc673ebfc5c5c1af585069db56803ec3947b4a9580c65fb0"
+  },
+  {
+    "file": "unified/inputs/union_native/s4/global/FR_s4_global_092717.mat",
+    "sha256": "04b8ae03c767558a24702c31aad83714f9ee96bf3a0a67237d682834dd24ebb3"
+  },
+  {
+    "file": "unified/inputs/union_native/s4/global/FR_s4_global_092917.mat",
+    "sha256": "2085865bbba197367fef288047551041c0e541820a5bef0ba766f0a0dd708d55"
+  },
+  {
+    "file": "unified/inputs/union_native/s4/global/FR_s4_global_100117.mat",
+    "sha256": "a0efa1b42a43874ed2ad4be9ff3edfd264fa6116b51b23f377d3b85bb7eccc44"
+  },
+  {
+    "file": "unified/inputs/union_native/s4/global/FR_s4_global_100317.mat",
+    "sha256": "d5dc701751a8a6e81a1051bb0de3a41170d18ec00885b369f9a30f2767c6e4b7"
+  },
+  {
+    "file": "unified/inputs/union_native/s4/var/FR_s4_var_092817.mat",
+    "sha256": "16448fc01cd701a3dfbc502fd12187d61b1112ae3eaa2cb76ebd3cc89860ac23"
+  },
+  {
+    "file": "unified/inputs/union_native/s4/var/FR_s4_var_093017.mat",
+    "sha256": "830d3c017c6c4c29d513db540487772774174b397f4708b2925e1ab466158c58"
+  },
+  {
+    "file": "unified/inputs/union_native/s4/var/FR_s4_var_100217.mat",
+    "sha256": "3c07c530c2978d40adcaa4fbd3f8d04be35b0d299989ce3fa0e66f9ccbdf8b97"
+  },
+  {
+    "file": "unified/inputs/union_native/s5/global/FR_s5_global_081218.mat",
+    "sha256": "b827b6ce477104edf74e51fabac095158ff060f060f0379a45225ed172f37fe4"
+  },
+  {
+    "file": "unified/inputs/union_native/s5/global/FR_s5_global_081518.mat",
+    "sha256": "0c3e5f3fbaa401f8b699f1280241b4b806a5c5a03fc5823b0c7bc162f839f89d"
+  },
+  {
+    "file": "unified/inputs/union_native/s5/global/FR_s5_global_081818.mat",
+    "sha256": "0ce88bb3d8eda972ed4d21c4200b86e811c54de5acb8c9b91ffec351807e7069"
+  },
+  {
+    "file": "unified/inputs/union_native/s5/global/FR_s5_global_082018.mat",
+    "sha256": "fd05fb92fdec6ec762d8e43d0ba1dad5583169e1b988afe6b54ed0e3bf8cdaa2"
+  },
+  {
+    "file": "unified/inputs/union_native/s5/global/FR_s5_global_082218.mat",
+    "sha256": "e918314f1bb6e271043bd19693af85574a8263b29fd289b28943964d39990a22"
+  },
+  {
+    "file": "unified/inputs/union_native/s5/global/FR_s5_global_082418.mat",
+    "sha256": "ab29049924781f96bd14d821cfbbde48f0a84ab981689a92e3c396d170942514"
+  },
+  {
+    "file": "unified/inputs/union_native/s5/var/FR_s5_var_081318.mat",
+    "sha256": "53a6600bc20fd6c681ccd3dcfb2d95dbc9e28be6d637e94ff971cbb83b496d08"
+  },
+  {
+    "file": "unified/inputs/union_native/s5/var/FR_s5_var_081518.mat",
+    "sha256": "5bd7eccccc1b95401188b12300b00452f286af05a318e355065a9e963a66874c"
+  },
+  {
+    "file": "unified/inputs/union_native/s5/var/FR_s5_var_081718.mat",
+    "sha256": "35d0fb03a2921849b3df91966e2fb2c9b223f1857d872fa9229382d1c237529b"
+  },
+  {
+    "file": "unified/inputs/union_native/s5/var/FR_s5_var_082018.mat",
+    "sha256": "3bca90bac46435ea5a9cfc731ff9dbcd69c63a46b0ac005bc9de4bd80396b2dd"
+  },
+  {
+    "file": "unified/inputs/union_native/s5/var/FR_s5_var_082218.mat",
+    "sha256": "cada20d2e8ad1884e138dac310eda69d37f3e54c5403b740bf5d6ee2396ba97c"
+  },
+  {
+    "file": "unified/inputs/union_native/s5/var/FR_s5_var_082418.mat",
+    "sha256": "ef1f4ca9ac0f27dbc03648608cde37a6e6597d5fb3d89ced2d0b0878972b9c4b"
+  }
+]

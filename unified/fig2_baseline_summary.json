@@ -1,0 +1,284 @@
+[
+  {
+    "metric": "sdi",
+    "baseline_rule": "cache_baseline",
+    "group": "M1",
+    "n_days": 5,
+    "day_mean": 25.144967413275573,
+    "day_ttest_p": 0.046232112547315143,
+    "n_sessions": 2,
+    "session_mean": 17.09411881715458,
+    "session_ttest_p": 0.4236694427336275,
+    "session_effects": [
+      30.512199810689566,
+      3.6760378236195934
+    ]
+  },
+  {
+    "metric": "sdi",
+    "baseline_rule": "cache_baseline",
+    "group": "M2",
+    "n_days": 5,
+    "day_mean": 5.9389874261374569,
+    "day_ttest_p": 0.018022306282978049,
+    "n_sessions": 2,
+    "session_mean": 5.4693639811368051,
+    "session_ttest_p": 0.25816558588957117,
+    "session_effects": [
+      3.1212467561335475,
+      7.8174812061400631
+    ]
+  },
+  {
+    "metric": "sdi",
+    "baseline_rule": "cache_baseline",
+    "group": "pooled",
+    "n_days": 10,
+    "day_mean": 15.541977419706516,
+    "day_ttest_p": 0.016599875856677337,
+    "n_sessions": 4,
+    "session_mean": 11.281741399145693,
+    "session_ttest_p": 0.18079518122860366,
+    "session_effects": [
+      30.512199810689566,
+      3.6760378236195934,
+      3.1212467561335475,
+      7.8174812061400631
+    ]
+  },
+  {
+    "metric": "sdi",
+    "baseline_rule": "fresh_cache_baseline",
+    "group": "M1",
+    "n_days": 5,
+    "day_mean": 25.1449676301855,
+    "day_ttest_p": 0.046232115450354321,
+    "n_sessions": 2,
+    "session_mean": 17.094118948906576,
+    "session_ttest_p": 0.42366944362105619,
+    "session_effects": [
+      30.512200084371454,
+      3.6760378134417016
+    ]
+  },
+  {
+    "metric": "sdi",
+    "baseline_rule": "fresh_cache_baseline",
+    "group": "M2",
+    "n_days": 5,
+    "day_mean": 5.93898594765231,
+    "day_ttest_p": 0.018022338225195063,
+    "n_sessions": 2,
+    "session_mean": 5.46936225744029,
+    "session_ttest_p": 0.25816577912018568,
+    "session_effects": [
+      3.1212438063801855,
+      7.8174807085003932
+    ]
+  },
+  {
+    "metric": "sdi",
+    "baseline_rule": "fresh_cache_baseline",
+    "group": "pooled",
+    "n_days": 10,
+    "day_mean": 15.541976788918905,
+    "day_ttest_p": 0.016599883542744019,
+    "n_sessions": 4,
+    "session_mean": 11.281740603173432,
+    "session_ttest_p": 0.18079522314503657,
+    "session_effects": [
+      30.512200084371454,
+      3.6760378134417016,
+      3.1212438063801855,
+      7.8174807085003932
+    ]
+  },
+  {
+    "metric": "sdi",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "group": "M1",
+    "n_days": 5,
+    "day_mean": 25.1449676301855,
+    "day_ttest_p": 0.046232115450354321,
+    "n_sessions": 2,
+    "session_mean": 17.094118948906576,
+    "session_ttest_p": 0.42366944362105619,
+    "session_effects": [
+      30.512200084371454,
+      3.6760378134417016
+    ]
+  },
+  {
+    "metric": "sdi",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "group": "M2",
+    "n_days": 5,
+    "day_mean": -2.7878259317357386,
+    "day_ttest_p": 0.072820951816072968,
+    "n_sessions": 2,
+    "session_mean": -2.5604432652883413,
+    "session_ttest_p": 0.26602946025818325,
+    "session_effects": [
+      -1.4235299330513542,
+      -3.6973565975253284
+    ]
+  },
+  {
+    "metric": "sdi",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "group": "pooled",
+    "n_days": 10,
+    "day_mean": 11.178570849224879,
+    "day_ttest_p": 0.10794095851892786,
+    "n_sessions": 4,
+    "session_mean": 7.2668378418091173,
+    "session_ttest_p": 0.42550303576545667,
+    "session_effects": [
+      30.512200084371454,
+      3.6760378134417016,
+      -1.4235299330513542,
+      -3.6973565975253284
+    ]
+  },
+  {
+    "metric": "svm",
+    "baseline_rule": "cache_baseline",
+    "group": "M1",
+    "n_days": 5,
+    "day_mean": 15.748289699107493,
+    "day_ttest_p": 0.047289801654839793,
+    "n_sessions": 2,
+    "session_mean": 12.061726458137773,
+    "session_ttest_p": 0.29993779258834929,
+    "session_effects": [
+      18.205998526420643,
+      5.9174543898549032
+    ]
+  },
+  {
+    "metric": "svm",
+    "baseline_rule": "cache_baseline",
+    "group": "M2",
+    "n_days": 5,
+    "day_mean": 7.04416513756761,
+    "day_ttest_p": 0.0037142709512895228,
+    "n_sessions": 2,
+    "session_mean": 7.4898095119643413,
+    "session_ttest_p": 0.18408629485280276,
+    "session_effects": [
+      9.718031383948,
+      5.2615876399806822
+    ]
+  },
+  {
+    "metric": "svm",
+    "baseline_rule": "cache_baseline",
+    "group": "pooled",
+    "n_days": 10,
+    "day_mean": 11.396227418337551,
+    "day_ttest_p": 0.0046174762683185962,
+    "n_sessions": 4,
+    "session_mean": 9.7757679850510577,
+    "session_ttest_p": 0.046287070249483572,
+    "session_effects": [
+      18.205998526420643,
+      5.9174543898549032,
+      9.718031383948,
+      5.2615876399806822
+    ]
+  },
+  {
+    "metric": "svm",
+    "baseline_rule": "fresh_cache_baseline",
+    "group": "M1",
+    "n_days": 5,
+    "day_mean": 15.249650625349727,
+    "day_ttest_p": 0.042137485720871629,
+    "n_sessions": 2,
+    "session_mean": 11.623033490126986,
+    "session_ttest_p": 0.30528803870843491,
+    "session_effects": [
+      17.667395382164891,
+      5.57867159808908
+    ]
+  },
+  {
+    "metric": "svm",
+    "baseline_rule": "fresh_cache_baseline",
+    "group": "M2",
+    "n_days": 5,
+    "day_mean": 7.1715032024396832,
+    "day_ttest_p": 0.0031475043425682344,
+    "n_sessions": 2,
+    "session_mean": 7.6080842913279128,
+    "session_ttest_p": 0.17788001856044358,
+    "session_effects": [
+      9.7909897357690543,
+      5.42517884688677
+    ]
+  },
+  {
+    "metric": "svm",
+    "baseline_rule": "fresh_cache_baseline",
+    "group": "pooled",
+    "n_days": 10,
+    "day_mean": 11.210576913894705,
+    "day_ttest_p": 0.0033491591910470857,
+    "n_sessions": 4,
+    "session_mean": 9.61555889072745,
+    "session_ttest_p": 0.043977967438378958,
+    "session_effects": [
+      17.667395382164891,
+      5.57867159808908,
+      9.7909897357690543,
+      5.42517884688677
+    ]
+  },
+  {
+    "metric": "svm",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "group": "M1",
+    "n_days": 5,
+    "day_mean": 15.249650625349727,
+    "day_ttest_p": 0.042137485720871629,
+    "n_sessions": 2,
+    "session_mean": 11.623033490126986,
+    "session_ttest_p": 0.30528803870843491,
+    "session_effects": [
+      17.667395382164891,
+      5.57867159808908
+    ]
+  },
+  {
+    "metric": "svm",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "group": "M2",
+    "n_days": 5,
+    "day_mean": -1.2114477868289137,
+    "day_ttest_p": 0.65245368637136525,
+    "n_sessions": 2,
+    "session_mean": -0.20258216886587244,
+    "session_ttest_p": 0.9744468354516862,
+    "session_effects": [
+      4.8417459209493332,
+      -5.2469102586810781
+    ]
+  },
+  {
+    "metric": "svm",
+    "baseline_rule": "fresh_earliest_fr_baseline",
+    "group": "pooled",
+    "n_days": 10,
+    "day_mean": 7.019101419260406,
+    "day_ttest_p": 0.10199428902075004,
+    "n_sessions": 4,
+    "session_mean": 5.7102256606305559,
+    "session_ttest_p": 0.31032067148528575,
+    "session_effects": [
+      17.667395382164891,
+      5.57867159808908,
+      4.8417459209493332,
+      -5.2469102586810781
+    ]
+  }
+]
