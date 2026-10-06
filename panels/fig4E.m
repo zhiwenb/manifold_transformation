@@ -1,12 +1,12 @@
 %% =====================================================================
 %  Batch analysis — Early vs Late, per-pair lines colored by monkey
-%  M1 = s1, s4  |  M2 = s5, s6, s7
+%  M1 = s1, s2  |  M2 = s3, s4, s5
 % =====================================================================
 
 clear; clc; close all;
 
 %% -------------------- 1. Path setup --------------------
-result_root = figure_input('audit_20261005/old_global_followup/cross_inputs/fig4E');
+result_root = figure_input('global_decoding');
 
 save_dir = figure_output('fig4E');
 if ~exist(save_dir, 'dir'), mkdir(save_dir); end
@@ -18,27 +18,27 @@ stage_groups.s1.early  = {'040716','041116'};
 stage_groups.s1.middle = {'041416','041716','041816','041916'};
 stage_groups.s1.late   = {'042016','042116','042416','042516'};
 
-stage_groups.s4.early  = {'031217'};
-stage_groups.s4.middle = {'031517'};
-stage_groups.s4.late   = {'032317'};
+stage_groups.s2.early  = {'031217'};
+stage_groups.s2.middle = {'031517'};
+stage_groups.s2.late   = {'032317'};
 
-stage_groups.s5.early  = {'071117'};
-stage_groups.s5.middle = {'071517'};
-stage_groups.s5.late   = {'071717','072017'};
+stage_groups.s3.early  = {'071117'};
+stage_groups.s3.middle = {'071517'};
+stage_groups.s3.late   = {'071717','072017'};
 
-stage_groups.s6.early  = {'092417'};
-stage_groups.s6.middle = {'092717','092917'};
-stage_groups.s6.late   = {'100117'};
+stage_groups.s4.early  = {'092417'};
+stage_groups.s4.middle = {'092717','092917'};
+stage_groups.s4.late   = {'100117'};
 
-stage_groups.s7.early  = {'081218'};
-stage_groups.s7.middle = {'081518','081818'};
-stage_groups.s7.late   = {'082218'};
+stage_groups.s5.early  = {'081218'};
+stage_groups.s5.middle = {'081518','081818'};
+stage_groups.s5.late   = {'082218'};
 
 all_sessions = fieldnames(stage_groups);
 
 % -------- Monkey group assignment --------
-M1_sessions = {'s1','s4'};
-M2_sessions = {'s5','s6','s7'};
+M1_sessions = {'s1','s2'};
+M2_sessions = {'s3','s4','s5'};
 
 col_M1 = [0.20 0.55 0.82];   % Blue tones identify M1.
 col_M2 = [0.85 0.33 0.10];   % Orange tones identify M2.

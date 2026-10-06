@@ -1,13 +1,13 @@
 %% Batch Net Relative RSA Improvement - BIG CLEAN VERSION
 % Logic:
 %   - Treat every training day (Day 2+) as an independent sample
-%   - Polar: use s1, s4, s5, s6, s7
-%   - Hyperbolic: use ONLY s1 and s7
+%   - Polar: use s1, s2, s3, s4, s5
+%   - Hyperbolic: use ONLY s1 and s5
 
 clear; clc; close all;
 
 %% 1. Configuration
-rootDir = figure_input('audit_20261005/old_global_followup/fr');
+rootDir = figure_input('global_fr');
 saveDir = figure_output('fig5C');
 if ~exist(saveDir, 'dir')
     mkdir(saveDir);
@@ -23,10 +23,10 @@ analysis_groups = {
 
 control_group_idx = 2;
 
-polar_M1_ids = [1, 4];
-polar_M2_ids = [5, 6, 7];
+polar_M1_ids = [1, 2];
+polar_M2_ids = [3, 4, 5];
 hyp_M1_ids   = [1];
-hyp_M2_ids   = [7];
+hyp_M2_ids   = [5];
 
 pooled_data = struct();
 pooled_data.M1.Polar = [];

@@ -1,12 +1,12 @@
 %% =====================================================================
 %  Batch analysis — Early vs Late, per-pair lines colored by monkey
-%  M1 = s1, s4  |  M2 = s5, s6, s7
+%  M1 = s1, s2  |  M2 = s3, s4, s5
 % =====================================================================
 
 clear; clc; close all;
 
 %% -------------------- 1. Path setup --------------------
-result_root = figure_input('code_manifold_combine/Decoding_Figure2/Results_Decoding_SVM_var');
+result_root = figure_input('var_decoding');
 
 save_dir = figure_output('fig3E');
 if ~exist(save_dir, 'dir'), mkdir(save_dir); end
@@ -18,27 +18,27 @@ stage_groups.s1.early  = {'041116','041216'};
 stage_groups.s1.middle = {'041816'};
 stage_groups.s1.late   = {'042916'};
 
-stage_groups.s4.early  = {'031617'};
-stage_groups.s4.middle = {''};
-stage_groups.s4.late   = {'031917'};
+stage_groups.s2.early  = {'031617'};
+stage_groups.s2.middle = {''};
+stage_groups.s2.late   = {'031917'};
 
-stage_groups.s5.early  = {'071217'};
-stage_groups.s5.middle = {'071617'};
-stage_groups.s5.late   = {'071917','072217'};
+stage_groups.s3.early  = {'071217'};
+stage_groups.s3.middle = {'071617'};
+stage_groups.s3.late   = {'071917','072217'};
 
-stage_groups.s6.early  = {'092817'};
-stage_groups.s6.middle = {'093017'};
-stage_groups.s6.late   = {'100217'};
+stage_groups.s4.early  = {'092817'};
+stage_groups.s4.middle = {'093017'};
+stage_groups.s4.late   = {'100217'};
 
-stage_groups.s7.early  = {'081318'};
-stage_groups.s7.middle = {'081718','082018'};
-stage_groups.s7.late   = {'082418'};
+stage_groups.s5.early  = {'081318'};
+stage_groups.s5.middle = {'081718','082018'};
+stage_groups.s5.late   = {'082418'};
 
 all_sessions = fieldnames(stage_groups);
 
 % -------- Monkey group assignment --------
-M1_sessions = {'s1','s4'};
-M2_sessions = {'s5','s6','s7'};
+M1_sessions = {'s1','s2'};
+M2_sessions = {'s3','s4','s5'};
 
 col_M1 = [0.20 0.55 0.82];   % Blue tones identify M1.
 col_M2 = [0.85 0.33 0.10];   % Orange tones identify M2.

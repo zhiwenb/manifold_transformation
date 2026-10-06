@@ -71,9 +71,9 @@ close all;
 %% =====================================================================
 
 DATA_PARENT_DIRECTORY = ...
-    figure_input('historical_fr');
+    figure_input('fr');
 
-SESSION_NAME = 's7';
+SESSION_NAME = 's5';
 
 CAT_TRAINED = 'T1';
 CAT_CONTROL = 'U1';

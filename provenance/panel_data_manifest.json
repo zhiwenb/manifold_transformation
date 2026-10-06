@@ -13,7 +13,7 @@
           "042516"
         ]
       },
-      "s4": {
+      "s2": {
         "early": [
           "031217"
         ],
@@ -21,7 +21,7 @@
           "032317"
         ]
       },
-      "s5": {
+      "s3": {
         "early": [
           "071117"
         ],
@@ -30,7 +30,7 @@
           "072017"
         ]
       },
-      "s6": {
+      "s4": {
         "early": [
           "092417"
         ],
@@ -38,7 +38,7 @@
           "100117"
         ]
       },
-      "s7": {
+      "s5": {
         "early": [
           "081218"
         ],
@@ -154,11 +154,11 @@
         ]
       },
       {
-        "session": "s4",
+        "session": "s2",
         "animal": "M1",
         "date": "031217",
         "stage": "early",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_031217.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s2/global/FR_s2_global_031217.mat",
         "neurons": 28,
         "balanced_trials": 15,
         "response_ms": [
@@ -171,11 +171,11 @@
         ]
       },
       {
-        "session": "s4",
+        "session": "s2",
         "animal": "M1",
         "date": "032317",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_032317.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s2/global/FR_s2_global_032317.mat",
         "neurons": 28,
         "balanced_trials": 15,
         "response_ms": [
@@ -188,11 +188,11 @@
         ]
       },
       {
-        "session": "s5",
+        "session": "s3",
         "animal": "M2",
         "date": "071117",
         "stage": "early",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_071117.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s3/global/FR_s3_global_071117.mat",
         "neurons": 57,
         "balanced_trials": 19,
         "response_ms": [
@@ -205,11 +205,11 @@
         ]
       },
       {
-        "session": "s5",
+        "session": "s3",
         "animal": "M2",
         "date": "071717",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_071717.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s3/global/FR_s3_global_071717.mat",
         "neurons": 52,
         "balanced_trials": 15,
         "response_ms": [
@@ -222,11 +222,11 @@
         ]
       },
       {
-        "session": "s5",
+        "session": "s3",
         "animal": "M2",
         "date": "072017",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_072017.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s3/global/FR_s3_global_072017.mat",
         "neurons": 52,
         "balanced_trials": 19,
         "response_ms": [
@@ -239,11 +239,11 @@
         ]
       },
       {
-        "session": "s6",
+        "session": "s4",
         "animal": "M2",
         "date": "092417",
         "stage": "early",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s6/global/FR_s6_global_092417.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_092417.mat",
         "neurons": 89,
         "balanced_trials": 14,
         "response_ms": [
@@ -256,11 +256,11 @@
         ]
       },
       {
-        "session": "s6",
+        "session": "s4",
         "animal": "M2",
         "date": "100117",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s6/global/FR_s6_global_100117.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_100117.mat",
         "neurons": 78,
         "balanced_trials": 12,
         "response_ms": [
@@ -273,11 +273,11 @@
         ]
       },
       {
-        "session": "s7",
+        "session": "s5",
         "animal": "M2",
         "date": "081218",
         "stage": "early",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s7/global/FR_s7_global_081218.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_081218.mat",
         "neurons": 31,
         "balanced_trials": 15,
         "response_ms": [
@@ -290,11 +290,11 @@
         ]
       },
       {
-        "session": "s7",
+        "session": "s5",
         "animal": "M2",
         "date": "082218",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s7/global/FR_s7_global_082218.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_082218.mat",
         "neurons": 31,
         "balanced_trials": 15,
         "response_ms": [
@@ -322,7 +322,7 @@
           "042516"
         ]
       },
-      "s4": {
+      "s2": {
         "early": [
           "031217"
         ],
@@ -330,7 +330,7 @@
           "031517"
         ]
       },
-      "s5": {
+      "s3": {
         "early": [
           "071517"
         ],
@@ -338,7 +338,7 @@
           "072017"
         ]
       },
-      "s6": {
+      "s4": {
         "early": [
           "092417"
         ],
@@ -346,7 +346,7 @@
           "100117"
         ]
       },
-      "s7": {
+      "s5": {
         "early": [
           "081218"
         ],
@@ -462,11 +462,11 @@
         ]
       },
       {
-        "session": "s4",
+        "session": "s2",
         "animal": "M1",
         "date": "031217",
         "stage": "early",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_031217.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s2/global/FR_s2_global_031217.mat",
         "neurons": 28,
         "balanced_trials": 15,
         "response_ms": [
@@ -479,11 +479,11 @@
         ]
       },
       {
-        "session": "s4",
+        "session": "s2",
         "animal": "M1",
         "date": "031517",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_031517.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s2/global/FR_s2_global_031517.mat",
         "neurons": 28,
         "balanced_trials": 15,
         "response_ms": [
@@ -496,11 +496,11 @@
         ]
       },
       {
-        "session": "s5",
+        "session": "s3",
         "animal": "M2",
         "date": "071517",
         "stage": "early",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_071517.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s3/global/FR_s3_global_071517.mat",
         "neurons": 53,
         "balanced_trials": 15,
         "response_ms": [
@@ -513,11 +513,11 @@
         ]
       },
       {
-        "session": "s5",
+        "session": "s3",
         "animal": "M2",
         "date": "072017",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_072017.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s3/global/FR_s3_global_072017.mat",
         "neurons": 52,
         "balanced_trials": 19,
         "response_ms": [
@@ -530,11 +530,11 @@
         ]
       },
       {
-        "session": "s6",
+        "session": "s4",
         "animal": "M2",
         "date": "092417",
         "stage": "early",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s6/global/FR_s6_global_092417.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_092417.mat",
         "neurons": 89,
         "balanced_trials": 14,
         "response_ms": [
@@ -547,11 +547,11 @@
         ]
       },
       {
-        "session": "s6",
+        "session": "s4",
         "animal": "M2",
         "date": "100117",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s6/global/FR_s6_global_100117.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_100117.mat",
         "neurons": 78,
         "balanced_trials": 12,
         "response_ms": [
@@ -564,11 +564,11 @@
         ]
       },
       {
-        "session": "s7",
+        "session": "s5",
         "animal": "M2",
         "date": "081218",
         "stage": "early",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s7/global/FR_s7_global_081218.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_081218.mat",
         "neurons": 31,
         "balanced_trials": 15,
         "response_ms": [
@@ -581,11 +581,11 @@
         ]
       },
       {
-        "session": "s7",
+        "session": "s5",
         "animal": "M2",
         "date": "082218",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s7/global/FR_s7_global_082218.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_082218.mat",
         "neurons": 31,
         "balanced_trials": 15,
         "response_ms": [
@@ -618,7 +618,7 @@
           "042516"
         ]
       },
-      "s4": {
+      "s2": {
         "early": [
           "031217"
         ],
@@ -627,7 +627,7 @@
           "032317"
         ]
       },
-      "s5": {
+      "s3": {
         "early": [
           "071117"
         ],
@@ -637,7 +637,7 @@
           "072017"
         ]
       },
-      "s6": {
+      "s4": {
         "early": [
           "092217",
           "092417"
@@ -649,7 +649,7 @@
           "100317"
         ]
       },
-      "s7": {
+      "s5": {
         "early": [
           "081218",
           "081518",
@@ -854,11 +854,11 @@
         ]
       },
       {
-        "session": "s4",
+        "session": "s2",
         "animal": "M1",
         "date": "031217",
         "stage": "early",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_031217.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s2/global/FR_s2_global_031217.mat",
         "neurons": 28,
         "balanced_trials": 15,
         "response_ms": [
@@ -871,11 +871,11 @@
         ]
       },
       {
-        "session": "s4",
+        "session": "s2",
         "animal": "M1",
         "date": "031517",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_031517.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s2/global/FR_s2_global_031517.mat",
         "neurons": 28,
         "balanced_trials": 15,
         "response_ms": [
@@ -888,11 +888,11 @@
         ]
       },
       {
-        "session": "s4",
+        "session": "s2",
         "animal": "M1",
         "date": "032317",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_032317.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s2/global/FR_s2_global_032317.mat",
         "neurons": 28,
         "balanced_trials": 15,
         "response_ms": [
@@ -905,11 +905,11 @@
         ]
       },
       {
-        "session": "s5",
+        "session": "s3",
         "animal": "M2",
         "date": "071117",
         "stage": "early",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_071117.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s3/global/FR_s3_global_071117.mat",
         "neurons": 57,
         "balanced_trials": 19,
         "response_ms": [
@@ -922,11 +922,11 @@
         ]
       },
       {
-        "session": "s5",
+        "session": "s3",
         "animal": "M2",
         "date": "071517",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_071517.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s3/global/FR_s3_global_071517.mat",
         "neurons": 53,
         "balanced_trials": 15,
         "response_ms": [
@@ -939,11 +939,11 @@
         ]
       },
       {
-        "session": "s5",
+        "session": "s3",
         "animal": "M2",
         "date": "071717",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_071717.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s3/global/FR_s3_global_071717.mat",
         "neurons": 52,
         "balanced_trials": 15,
         "response_ms": [
@@ -956,11 +956,11 @@
         ]
       },
       {
-        "session": "s5",
+        "session": "s3",
         "animal": "M2",
         "date": "072017",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_072017.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s3/global/FR_s3_global_072017.mat",
         "neurons": 52,
         "balanced_trials": 19,
         "response_ms": [
@@ -973,11 +973,11 @@
         ]
       },
       {
-        "session": "s6",
+        "session": "s4",
         "animal": "M2",
         "date": "092217",
         "stage": "early",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s6/global/FR_s6_global_092217.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_092217.mat",
         "neurons": 58,
         "balanced_trials": 12,
         "response_ms": [
@@ -990,11 +990,11 @@
         ]
       },
       {
-        "session": "s6",
+        "session": "s4",
         "animal": "M2",
         "date": "092417",
         "stage": "early",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s6/global/FR_s6_global_092417.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_092417.mat",
         "neurons": 89,
         "balanced_trials": 14,
         "response_ms": [
@@ -1007,11 +1007,11 @@
         ]
       },
       {
-        "session": "s6",
+        "session": "s4",
         "animal": "M2",
         "date": "092717",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s6/global/FR_s6_global_092717.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_092717.mat",
         "neurons": 74,
         "balanced_trials": 15,
         "response_ms": [
@@ -1024,11 +1024,11 @@
         ]
       },
       {
-        "session": "s6",
+        "session": "s4",
         "animal": "M2",
         "date": "092917",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s6/global/FR_s6_global_092917.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_092917.mat",
         "neurons": 86,
         "balanced_trials": 12,
         "response_ms": [
@@ -1041,11 +1041,11 @@
         ]
       },
       {
-        "session": "s6",
+        "session": "s4",
         "animal": "M2",
         "date": "100117",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s6/global/FR_s6_global_100117.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_100117.mat",
         "neurons": 78,
         "balanced_trials": 12,
         "response_ms": [
@@ -1058,11 +1058,11 @@
         ]
       },
       {
-        "session": "s6",
+        "session": "s4",
         "animal": "M2",
         "date": "100317",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s6/global/FR_s6_global_100317.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_100317.mat",
         "neurons": 49,
         "balanced_trials": 15,
         "response_ms": [
@@ -1075,11 +1075,11 @@
         ]
       },
       {
-        "session": "s7",
+        "session": "s5",
         "animal": "M2",
         "date": "081218",
         "stage": "early",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s7/global/FR_s7_global_081218.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_081218.mat",
         "neurons": 31,
         "balanced_trials": 15,
         "response_ms": [
@@ -1092,11 +1092,11 @@
         ]
       },
       {
-        "session": "s7",
+        "session": "s5",
         "animal": "M2",
         "date": "081518",
         "stage": "early",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s7/global/FR_s7_global_081518.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_081518.mat",
         "neurons": 35,
         "balanced_trials": 14,
         "response_ms": [
@@ -1109,11 +1109,11 @@
         ]
       },
       {
-        "session": "s7",
+        "session": "s5",
         "animal": "M2",
         "date": "081818",
         "stage": "early",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s7/global/FR_s7_global_081818.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_081818.mat",
         "neurons": 40,
         "balanced_trials": 12,
         "response_ms": [
@@ -1126,11 +1126,11 @@
         ]
       },
       {
-        "session": "s7",
+        "session": "s5",
         "animal": "M2",
         "date": "082018",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s7/global/FR_s7_global_082018.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_082018.mat",
         "neurons": 41,
         "balanced_trials": 12,
         "response_ms": [
@@ -1143,11 +1143,11 @@
         ]
       },
       {
-        "session": "s7",
+        "session": "s5",
         "animal": "M2",
         "date": "082218",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s7/global/FR_s7_global_082218.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_082218.mat",
         "neurons": 31,
         "balanced_trials": 15,
         "response_ms": [
@@ -1160,11 +1160,11 @@
         ]
       },
       {
-        "session": "s7",
+        "session": "s5",
         "animal": "M2",
         "date": "082418",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s7/global/FR_s7_global_082418.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_082418.mat",
         "neurons": 62,
         "balanced_trials": 9,
         "response_ms": [
@@ -1192,7 +1192,7 @@
           "042516"
         ]
       },
-      "s4": {
+      "s2": {
         "early": [
           "031217"
         ],
@@ -1201,7 +1201,7 @@
           "032317"
         ]
       },
-      "s6": {
+      "s4": {
         "early": [
           "092217",
           "092417",
@@ -1213,7 +1213,7 @@
           "100317"
         ]
       },
-      "s7": {
+      "s5": {
         "early": [
           "081218",
           "081518",
@@ -1333,11 +1333,11 @@
         ]
       },
       {
-        "session": "s4",
+        "session": "s2",
         "animal": "M1",
         "date": "031217",
         "stage": "early",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_031217.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s2/global/FR_s2_global_031217.mat",
         "neurons": 28,
         "balanced_trials": 15,
         "response_ms": [
@@ -1350,11 +1350,28 @@
         ]
       },
       {
-        "session": "s4",
+        "session": "s2",
         "animal": "M1",
         "date": "031517",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_031517.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s2/global/FR_s2_global_031517.mat",
+        "neurons": 28,
+        "balanced_trials": 15,
+        "response_ms": [
+          630,
+          870
+        ],
+        "baseline_ms": [
+          350,
+          500
+        ]
+      },
+      {
+        "session": "s2",
+        "animal": "M1",
+        "date": "032317",
+        "stage": "late",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s2/global/FR_s2_global_032317.mat",
         "neurons": 28,
         "balanced_trials": 15,
         "response_ms": [
@@ -1368,27 +1385,10 @@
       },
       {
         "session": "s4",
-        "animal": "M1",
-        "date": "032317",
-        "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_032317.mat",
-        "neurons": 28,
-        "balanced_trials": 15,
-        "response_ms": [
-          630,
-          870
-        ],
-        "baseline_ms": [
-          350,
-          500
-        ]
-      },
-      {
-        "session": "s6",
         "animal": "M2",
         "date": "092217",
         "stage": "early",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s6/global/FR_s6_global_092217.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_092217.mat",
         "neurons": 58,
         "balanced_trials": 12,
         "response_ms": [
@@ -1401,11 +1401,11 @@
         ]
       },
       {
-        "session": "s6",
+        "session": "s4",
         "animal": "M2",
         "date": "092417",
         "stage": "early",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s6/global/FR_s6_global_092417.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_092417.mat",
         "neurons": 89,
         "balanced_trials": 14,
         "response_ms": [
@@ -1418,11 +1418,11 @@
         ]
       },
       {
-        "session": "s6",
+        "session": "s4",
         "animal": "M2",
         "date": "092717",
         "stage": "early",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s6/global/FR_s6_global_092717.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_092717.mat",
         "neurons": 74,
         "balanced_trials": 15,
         "response_ms": [
@@ -1435,11 +1435,11 @@
         ]
       },
       {
-        "session": "s6",
+        "session": "s4",
         "animal": "M2",
         "date": "092917",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s6/global/FR_s6_global_092917.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_092917.mat",
         "neurons": 86,
         "balanced_trials": 12,
         "response_ms": [
@@ -1452,11 +1452,11 @@
         ]
       },
       {
-        "session": "s6",
+        "session": "s4",
         "animal": "M2",
         "date": "100117",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s6/global/FR_s6_global_100117.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_100117.mat",
         "neurons": 78,
         "balanced_trials": 12,
         "response_ms": [
@@ -1469,11 +1469,11 @@
         ]
       },
       {
-        "session": "s6",
+        "session": "s4",
         "animal": "M2",
         "date": "100317",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s6/global/FR_s6_global_100317.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_100317.mat",
         "neurons": 49,
         "balanced_trials": 15,
         "response_ms": [
@@ -1486,11 +1486,11 @@
         ]
       },
       {
-        "session": "s7",
+        "session": "s5",
         "animal": "M2",
         "date": "081218",
         "stage": "early",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s7/global/FR_s7_global_081218.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_081218.mat",
         "neurons": 31,
         "balanced_trials": 15,
         "response_ms": [
@@ -1503,11 +1503,11 @@
         ]
       },
       {
-        "session": "s7",
+        "session": "s5",
         "animal": "M2",
         "date": "081518",
         "stage": "early",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s7/global/FR_s7_global_081518.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_081518.mat",
         "neurons": 35,
         "balanced_trials": 14,
         "response_ms": [
@@ -1520,11 +1520,11 @@
         ]
       },
       {
-        "session": "s7",
+        "session": "s5",
         "animal": "M2",
         "date": "081818",
         "stage": "early",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s7/global/FR_s7_global_081818.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_081818.mat",
         "neurons": 40,
         "balanced_trials": 12,
         "response_ms": [
@@ -1537,11 +1537,11 @@
         ]
       },
       {
-        "session": "s7",
+        "session": "s5",
         "animal": "M2",
         "date": "082018",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s7/global/FR_s7_global_082018.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_082018.mat",
         "neurons": 41,
         "balanced_trials": 12,
         "response_ms": [
@@ -1554,11 +1554,11 @@
         ]
       },
       {
-        "session": "s7",
+        "session": "s5",
         "animal": "M2",
         "date": "082218",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s7/global/FR_s7_global_082218.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_082218.mat",
         "neurons": 31,
         "balanced_trials": 15,
         "response_ms": [
@@ -1571,11 +1571,11 @@
         ]
       },
       {
-        "session": "s7",
+        "session": "s5",
         "animal": "M2",
         "date": "082418",
         "stage": "late",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s7/global/FR_s7_global_082418.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_082418.mat",
         "neurons": 62,
         "balanced_trials": 9,
         "response_ms": [
@@ -1606,7 +1606,7 @@
           "042516"
         ]
       },
-      "s4": {
+      "s2": {
         "baseline": [
           "031217"
         ],
@@ -1615,7 +1615,7 @@
           "032317"
         ]
       },
-      "s5": {
+      "s3": {
         "baseline": [
           "071117"
         ],
@@ -1625,7 +1625,7 @@
           "072017"
         ]
       },
-      "s6": {
+      "s4": {
         "baseline": [
           "092217"
         ],
@@ -1637,7 +1637,7 @@
           "100317"
         ]
       },
-      "s7": {
+      "s5": {
         "baseline": [
           "081218"
         ],
@@ -1650,7 +1650,7 @@
         ]
       }
     },
-    "statistical_unit": "post-day; Polar s1/s4/s5/s6/s7, Hyperbolic s1/s7",
+    "statistical_unit": "post-day; Polar s1/s2/s3/s4/s5, Hyperbolic s1/s5",
     "calculation": "recalculated from original FR",
     "neuron_version": "historical selection; no SNR filter; V2-only not verified",
     "records": [
@@ -1808,11 +1808,11 @@
         ]
       },
       {
-        "session": "s4",
+        "session": "s2",
         "animal": "M1",
         "date": "031217",
         "stage": "baseline",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_031217.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s2/global/FR_s2_global_031217.mat",
         "neurons": 28,
         "balanced_trials": 15,
         "response_ms": [
@@ -1825,11 +1825,11 @@
         ]
       },
       {
-        "session": "s4",
+        "session": "s2",
         "animal": "M1",
         "date": "031517",
         "stage": "post",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_031517.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s2/global/FR_s2_global_031517.mat",
         "neurons": 28,
         "balanced_trials": 15,
         "response_ms": [
@@ -1842,11 +1842,11 @@
         ]
       },
       {
-        "session": "s4",
+        "session": "s2",
         "animal": "M1",
         "date": "032317",
         "stage": "post",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_032317.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s2/global/FR_s2_global_032317.mat",
         "neurons": 28,
         "balanced_trials": 15,
         "response_ms": [
@@ -1859,11 +1859,11 @@
         ]
       },
       {
-        "session": "s5",
+        "session": "s3",
         "animal": "M2",
         "date": "071117",
         "stage": "baseline",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_071117.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s3/global/FR_s3_global_071117.mat",
         "neurons": 57,
         "balanced_trials": 19,
         "response_ms": [
@@ -1876,11 +1876,11 @@
         ]
       },
       {
-        "session": "s5",
+        "session": "s3",
         "animal": "M2",
         "date": "071517",
         "stage": "post",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_071517.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s3/global/FR_s3_global_071517.mat",
         "neurons": 53,
         "balanced_trials": 15,
         "response_ms": [
@@ -1893,11 +1893,11 @@
         ]
       },
       {
-        "session": "s5",
+        "session": "s3",
         "animal": "M2",
         "date": "071717",
         "stage": "post",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_071717.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s3/global/FR_s3_global_071717.mat",
         "neurons": 52,
         "balanced_trials": 15,
         "response_ms": [
@@ -1910,11 +1910,11 @@
         ]
       },
       {
-        "session": "s5",
+        "session": "s3",
         "animal": "M2",
         "date": "072017",
         "stage": "post",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_072017.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s3/global/FR_s3_global_072017.mat",
         "neurons": 52,
         "balanced_trials": 19,
         "response_ms": [
@@ -1927,11 +1927,11 @@
         ]
       },
       {
-        "session": "s6",
+        "session": "s4",
         "animal": "M2",
         "date": "092217",
         "stage": "baseline",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s6/global/FR_s6_global_092217.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_092217.mat",
         "neurons": 58,
         "balanced_trials": 12,
         "response_ms": [
@@ -1944,11 +1944,11 @@
         ]
       },
       {
-        "session": "s6",
+        "session": "s4",
         "animal": "M2",
         "date": "092417",
         "stage": "post",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s6/global/FR_s6_global_092417.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_092417.mat",
         "neurons": 89,
         "balanced_trials": 14,
         "response_ms": [
@@ -1961,11 +1961,11 @@
         ]
       },
       {
-        "session": "s6",
+        "session": "s4",
         "animal": "M2",
         "date": "092717",
         "stage": "post",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s6/global/FR_s6_global_092717.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_092717.mat",
         "neurons": 74,
         "balanced_trials": 15,
         "response_ms": [
@@ -1978,11 +1978,11 @@
         ]
       },
       {
-        "session": "s6",
+        "session": "s4",
         "animal": "M2",
         "date": "092917",
         "stage": "post",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s6/global/FR_s6_global_092917.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_092917.mat",
         "neurons": 86,
         "balanced_trials": 12,
         "response_ms": [
@@ -1995,11 +1995,11 @@
         ]
       },
       {
-        "session": "s6",
+        "session": "s4",
         "animal": "M2",
         "date": "100117",
         "stage": "post",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s6/global/FR_s6_global_100117.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_100117.mat",
         "neurons": 78,
         "balanced_trials": 12,
         "response_ms": [
@@ -2012,11 +2012,11 @@
         ]
       },
       {
-        "session": "s6",
+        "session": "s4",
         "animal": "M2",
         "date": "100317",
         "stage": "post",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s6/global/FR_s6_global_100317.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s4/global/FR_s4_global_100317.mat",
         "neurons": 49,
         "balanced_trials": 15,
         "response_ms": [
@@ -2029,11 +2029,11 @@
         ]
       },
       {
-        "session": "s7",
+        "session": "s5",
         "animal": "M2",
         "date": "081218",
         "stage": "baseline",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s7/global/FR_s7_global_081218.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_081218.mat",
         "neurons": 31,
         "balanced_trials": 15,
         "response_ms": [
@@ -2046,11 +2046,11 @@
         ]
       },
       {
-        "session": "s7",
+        "session": "s5",
         "animal": "M2",
         "date": "081518",
         "stage": "post",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s7/global/FR_s7_global_081518.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_081518.mat",
         "neurons": 35,
         "balanced_trials": 14,
         "response_ms": [
@@ -2063,11 +2063,11 @@
         ]
       },
       {
-        "session": "s7",
+        "session": "s5",
         "animal": "M2",
         "date": "081818",
         "stage": "post",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s7/global/FR_s7_global_081818.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_081818.mat",
         "neurons": 40,
         "balanced_trials": 12,
         "response_ms": [
@@ -2080,11 +2080,11 @@
         ]
       },
       {
-        "session": "s7",
+        "session": "s5",
         "animal": "M2",
         "date": "082018",
         "stage": "post",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s7/global/FR_s7_global_082018.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_082018.mat",
         "neurons": 41,
         "balanced_trials": 12,
         "response_ms": [
@@ -2097,11 +2097,11 @@
         ]
       },
       {
-        "session": "s7",
+        "session": "s5",
         "animal": "M2",
         "date": "082218",
         "stage": "post",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s7/global/FR_s7_global_082218.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_082218.mat",
         "neurons": 31,
         "balanced_trials": 15,
         "response_ms": [
@@ -2114,11 +2114,11 @@
         ]
       },
       {
-        "session": "s7",
+        "session": "s5",
         "animal": "M2",
         "date": "082418",
         "stage": "post",
-        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s7/global/FR_s7_global_082418.mat",
+        "original_fr": "/Users/bianzhiwen/training_effect/code_manifold_combine/Data_FR/s5/global/FR_s5_global_082418.mat",
         "neurons": 62,
         "balanced_trials": 9,
         "response_ms": [

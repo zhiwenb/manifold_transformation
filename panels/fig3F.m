@@ -7,8 +7,8 @@
 %
 %  ALL category pairs are pooled in one plot
 %
-%  Blue   = M1 (s1, s4)
-%  Orange = M2 (s5, s6, s7)
+%  Blue   = M1 (s1, s2)
+%  Orange = M2 (s3, s4, s5)
 %
 %  Small dots = individual session x category-pair observations
 %  Large dot  = overall mean Delta SDI
@@ -27,7 +27,7 @@ close all;
 % =====================================================================
 
 result_root = ...
-    figure_input('code_manifold_combine/Discriminability/Results_SDI');
+    figure_input('var_sdi');
 
 save_dir = figure_output('fig3F');
 
@@ -46,33 +46,33 @@ stage_groups.s1.early  = {'041116','041216'};
 stage_groups.s1.middle = {'041816'};
 stage_groups.s1.late   = {'042916'};
 
-stage_groups.s4.early  = {'031617'};
-stage_groups.s4.middle = {''};
-stage_groups.s4.late   = {'031917'};
+stage_groups.s2.early  = {'031617'};
+stage_groups.s2.middle = {''};
+stage_groups.s2.late   = {'031917'};
 
-stage_groups.s5.early  = {'071217'};
-stage_groups.s5.middle = {'071617'};
-stage_groups.s5.late   = {'071917','072217'};
+stage_groups.s3.early  = {'071217'};
+stage_groups.s3.middle = {'071617'};
+stage_groups.s3.late   = {'071917','072217'};
 
-stage_groups.s6.early  = {'092817'};
-stage_groups.s6.middle = {'093017'};
-stage_groups.s6.late   = {'100217'};
+stage_groups.s4.early  = {'092817'};
+stage_groups.s4.middle = {'093017'};
+stage_groups.s4.late   = {'100217'};
 
-stage_groups.s7.early  = {'081318'};
-stage_groups.s7.middle = {'081718','082018'};
-stage_groups.s7.late   = {'082418'};
+stage_groups.s5.early  = {'081318'};
+stage_groups.s5.middle = {'081718','082018'};
+stage_groups.s5.late   = {'082418'};
 
 
 session_order = ...
-    {'s1','s4','s5','s6','s7'};
+    {'s1','s2','s3','s4','s5'};
 
 
 %% =====================================================================
 %  3. Monkey assignment
 % =====================================================================
 
-M1_sessions = {'s1','s4'};
-M2_sessions = {'s5','s6','s7'};
+M1_sessions = {'s1','s2'};
+M2_sessions = {'s3','s4','s5'};
 
 
 % Publication-friendly colors

@@ -12,7 +12,7 @@
 clear; clc; close all;
 
 %% 1. Configuration
-rootDir = figure_input('audit_20261005/old_global_followup/fr');
+rootDir = figure_input('global_fr');
 
 idx_G = 1;
 idx_H = 2;
@@ -27,14 +27,14 @@ analysis_groups = {
 };
 
 animal_sessions = struct();
-animal_sessions.M1 = {'s1', 's4'};
-animal_sessions.M2 = {'s6', 's7'};
+animal_sessions.M1 = {'s1', 's2'};
+animal_sessions.M2 = {'s4', 's5'};
 
 special_session_config = struct();
-special_session_config.s4 = struct('N_pre', 1, 'N_post', 2);
+special_session_config.s2 = struct('N_pre', 1, 'N_post', 2);
 
-polar_allowed_sessions = {'s1', 's4', 's6', 's7'};
-hyp_allowed_sessions   = {'s1', 's7'};
+polar_allowed_sessions = {'s1', 's2', 's4', 's5'};
+hyp_allowed_sessions   = {'s1', 's5'};
 
 sessionDirs = dir(fullfile(rootDir, 's*'));
 sessionDirs = sessionDirs([sessionDirs.isdir]);
@@ -152,12 +152,12 @@ for s = 1:length(sessionDirs)
     frozen=struct();
     frozen.s1.early = {'041116','041416','041716'};
     frozen.s1.late = {'042116','042416','042516'};
-    frozen.s4.early = {'031217'};
-    frozen.s4.late = {'031517','032317'};
-    frozen.s6.early = {'092217','092417','092717'};
-    frozen.s6.late = {'092917','100117','100317'};
-    frozen.s7.early = {'081218','081518','081818'};
-    frozen.s7.late = {'082018','082218','082418'};
+    frozen.s2.early = {'031217'};
+    frozen.s2.late = {'031517','032317'};
+    frozen.s4.early = {'092217','092417','092717'};
+    frozen.s4.late = {'092917','100117','100317'};
+    frozen.s5.early = {'081218','081518','081818'};
+    frozen.s5.late = {'082018','082218','082418'};
     early_mask=ismember({Results.date},frozen.(sessionName).early);
     late_mask=ismember({Results.date},frozen.(sessionName).late);
     assert(any(early_mask)&&any(late_mask),'Missing matched early or late stage');

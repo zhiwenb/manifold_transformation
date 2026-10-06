@@ -1,4 +1,5 @@
 outputs/
+outputs_simple/
 *.asv
 .DS_Store
 __pycache__/

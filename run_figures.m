@@ -4,6 +4,7 @@ function run_figures(panels)
 %           run_figures('fig4BCD_mixed')
 root = fileparts(mfilename('fullpath'));
 addpath(root);
+prepare_inputs();
 if nargin == 0
     panels = {'fig2D','fig2E','fig2F','fig3A','fig3BCD','fig3E','fig3F', ...
               'fig4BCD','fig4E','fig4F','fig5B','fig5C'};

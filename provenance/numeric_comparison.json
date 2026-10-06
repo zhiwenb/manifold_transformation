@@ -1,0 +1,18 @@
+{
+  "fig3E": {
+    "ok": true,
+    "numeric_arrays_compared": 3
+  },
+  "fig3F": {
+    "ok": true,
+    "numeric_arrays_compared": 12
+  },
+  "fig4E": {
+    "ok": true,
+    "numeric_arrays_compared": 7
+  },
+  "fig4F": {
+    "ok": true,
+    "numeric_arrays_compared": 7
+  }
+}

@@ -20,40 +20,40 @@ clear; clc; close all;
 %% =====================================================================
 
 DATA_PARENT_DIRECTORY = ...
-    figure_input('code_manifold_combine/Decoding_Figure2');
+    figure_input('fig2');
 
 analysis_groups = {'L', 'G'};
 
 group_sessions = struct();
 
-group_sessions.L = {'s1', 's2', 's4'};
-group_sessions.G = {'s5', 's7'};
+group_sessions.L = {'s1', 'extra_var', 's2'};
+group_sessions.G = {'s3', 's5'};
 
 session_T_categories = struct();
 
 session_T_categories.s1 = {'T1', 'T2'};
+session_T_categories.extra_var = {'T1', 'T2'};
 session_T_categories.s2 = {'T1', 'T2'};
-session_T_categories.s4 = {'T1', 'T2'};
-session_T_categories.s5 = {'T1', 'T2'};
-session_T_categories.s7 = {'T1', 'T2', 'T3', 'T4'};
+session_T_categories.s3 = {'T1', 'T2'};
+session_T_categories.s5 = {'T1', 'T2', 'T3', 'T4'};
 
 session_U_categories = struct();
 
 session_U_categories.s1 = {'U1', 'U2'};
+session_U_categories.extra_var = {'U1', 'U2'};
 session_U_categories.s2 = {'U1', 'U2'};
-session_U_categories.s4 = {'U1', 'U2'};
-session_U_categories.s5 = {'U1', 'U2'};
-session_U_categories.s7 = {'U1', 'U2', 'U3', 'U4'};
+session_U_categories.s3 = {'U1', 'U2'};
+session_U_categories.s5 = {'U1', 'U2', 'U3', 'U4'};
 
 session_config = struct();
 
 session_config.s1.trained_ids = [7;8;9;12;13;14;17;18;19];
-session_config.s2.trained_ids = [7;8;9;12;13;14;17;18;19];
-session_config.s7.trained_ids = [7;8;9;12;13;14;17;18;19];
+session_config.extra_var.trained_ids = [7;8;9;12;13;14;17;18;19];
+session_config.s5.trained_ids = [7;8;9;12;13;14;17;18;19];
 
-session_config.s4.trained_ids = [3;11;12;13;21];
+session_config.s2.trained_ids = [3;11;12;13;21];
 
-session_config.s5.trained_ids = [10:18];
+session_config.s3.trained_ids = [10:18];
 
 % ---------------------------------------------------------
 % Explicit post-training indices
@@ -62,9 +62,9 @@ session_config.s5.trained_ids = [10:18];
 session_post_indices = struct();
 
 session_post_indices.s1 = [3,4,5,6];
-session_post_indices.s4 = [2,3];
-session_post_indices.s5 = [2,3];
-session_post_indices.s7 = [3,4,5,6];
+session_post_indices.s2 = [2,3];
+session_post_indices.s3 = [2,3];
+session_post_indices.s5 = [3,4,5,6];
 
 % ---------------------------------------------------------
 % DiD storage containers

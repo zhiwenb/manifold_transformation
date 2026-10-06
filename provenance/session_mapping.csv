@@ -1,0 +1,7 @@
+session,original_session,animal,has_global
+s1,s1,M1,true
+s2,s4,M1,true
+s3,s5,M2,true
+s4,s6,M2,true
+s5,s7,M2,true
+extra_var,s2,M1,false

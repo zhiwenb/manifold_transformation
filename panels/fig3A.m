@@ -19,10 +19,10 @@ clear; clc; close all;
 %% =====================================================================
 
 file_pre = ...
-    figure_input('historical_fr/s1/var/FR_s1_var_041116.mat');
+    figure_input('fr/s1/var/FR_s1_var_041116.mat');
 
 file_post = ...
-    figure_input('historical_fr/s1/var/FR_s1_var_042716.mat');
+    figure_input('fr/s1/var/FR_s1_var_042716.mat');
 
 if ~exist(file_pre,'file') || ~exist(file_post,'file')
     error('Files not found. Please check the paths.');
