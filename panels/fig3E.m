@@ -231,7 +231,7 @@ text(1.5, y_txt, sig_str, ...
 xlim([0.5 2.5]);
 set(gca,'XTick',[1 2],'XTickLabel',{'Early','Late'},'FontSize',15);
 ylabel('Pairwise decoding accuracy (%)','FontSize',15);
-title(sprintf('Pairwise between-category Decoding: Early vs Late'), 'FontSize',20);
+title(sprintf('Pairwise between-category Decoding'), 'FontSize',20);
 
 % Legend
 h_e  = patch(NaN,NaN, violin_col(1,:), 'FaceAlpha',0.45, 'EdgeColor',violin_col(1,:)*0.75);
@@ -245,6 +245,8 @@ legend([h_e, h_l, h_m1, h_m2], ...
      sprintf('M2')}, ...
     'Location','southwest','FontSize',10,'Box','off');
 box off;
+
+ylim([40 110]); % Match the reference panel axis range.
 
 %% -------------------- 8. Save --------------------
 pair_table = table( ...

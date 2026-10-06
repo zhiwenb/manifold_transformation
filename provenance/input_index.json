@@ -930,5 +930,229 @@
   {
     "view": "global_sdi/s3/global/SDI_Results_s3_prototype_072017.mat",
     "file": "data/s3/metrics/global_sdi/SDI_Results_s3_prototype_072017.mat"
+  },
+  {
+    "view": "original_global_sdi/s3/global/SDI_Results_FR_s3_prototype_071517.mat",
+    "file": "data/s3/metrics/original_global_sdi/SDI_Results_FR_s3_prototype_071517.mat"
+  },
+  {
+    "view": "original_global_sdi/s3/global/SDI_Results_FR_s3_prototype_071717.mat",
+    "file": "data/s3/metrics/original_global_sdi/SDI_Results_FR_s3_prototype_071717.mat"
+  },
+  {
+    "view": "original_global_sdi/s3/global/SDI_Results_FR_s3_prototype_071117.mat",
+    "file": "data/s3/metrics/original_global_sdi/SDI_Results_FR_s3_prototype_071117.mat"
+  },
+  {
+    "view": "original_global_sdi/s3/global/SDI_Results_FR_s3_prototype_072017.mat",
+    "file": "data/s3/metrics/original_global_sdi/SDI_Results_FR_s3_prototype_072017.mat"
+  },
+  {
+    "view": "original_global_sdi/s2/global/SDI_Results_FR_s2_prototype_032317.mat",
+    "file": "data/s2/metrics/original_global_sdi/SDI_Results_FR_s2_prototype_032317.mat"
+  },
+  {
+    "view": "original_global_sdi/s2/global/SDI_Results_FR_s2_prototype_031517.mat",
+    "file": "data/s2/metrics/original_global_sdi/SDI_Results_FR_s2_prototype_031517.mat"
+  },
+  {
+    "view": "original_global_sdi/s2/global/SDI_Results_FR_s2_prototype_031217.mat",
+    "file": "data/s2/metrics/original_global_sdi/SDI_Results_FR_s2_prototype_031217.mat"
+  },
+  {
+    "view": "original_global_sdi/s1/global/SDI_Results_FR_s1_prototype_041716.mat",
+    "file": "data/s1/metrics/original_global_sdi/SDI_Results_FR_s1_prototype_041716.mat"
+  },
+  {
+    "view": "original_global_sdi/s1/global/SDI_Results_FR_s1_prototype_041116.mat",
+    "file": "data/s1/metrics/original_global_sdi/SDI_Results_FR_s1_prototype_041116.mat"
+  },
+  {
+    "view": "original_global_sdi/s1/global/SDI_Results_FR_s1_prototype_041416.mat",
+    "file": "data/s1/metrics/original_global_sdi/SDI_Results_FR_s1_prototype_041416.mat"
+  },
+  {
+    "view": "original_global_sdi/s1/global/SDI_Results_FR_s1_prototype_040716.mat",
+    "file": "data/s1/metrics/original_global_sdi/SDI_Results_FR_s1_prototype_040716.mat"
+  },
+  {
+    "view": "original_global_sdi/s1/global/SDI_Results_FR_s1_prototype_042116.mat",
+    "file": "data/s1/metrics/original_global_sdi/SDI_Results_FR_s1_prototype_042116.mat"
+  },
+  {
+    "view": "original_global_sdi/s1/global/SDI_Results_FR_s1_prototype_041816.mat",
+    "file": "data/s1/metrics/original_global_sdi/SDI_Results_FR_s1_prototype_041816.mat"
+  },
+  {
+    "view": "original_global_sdi/s1/global/SDI_Results_FR_s1_prototype_042516.mat",
+    "file": "data/s1/metrics/original_global_sdi/SDI_Results_FR_s1_prototype_042516.mat"
+  },
+  {
+    "view": "original_global_sdi/s1/global/SDI_Results_FR_s1_prototype_042016.mat",
+    "file": "data/s1/metrics/original_global_sdi/SDI_Results_FR_s1_prototype_042016.mat"
+  },
+  {
+    "view": "original_global_sdi/s1/global/SDI_Results_FR_s1_prototype_042416.mat",
+    "file": "data/s1/metrics/original_global_sdi/SDI_Results_FR_s1_prototype_042416.mat"
+  },
+  {
+    "view": "original_global_sdi/s1/global/SDI_Results_FR_s1_prototype_041916.mat",
+    "file": "data/s1/metrics/original_global_sdi/SDI_Results_FR_s1_prototype_041916.mat"
+  },
+  {
+    "view": "original_global_sdi/s4/global/SDI_Results_FR_s4_prototype_092917.mat",
+    "file": "data/s4/metrics/original_global_sdi/SDI_Results_FR_s4_prototype_092917.mat"
+  },
+  {
+    "view": "original_global_sdi/s4/global/SDI_Results_FR_s4_prototype_092417.mat",
+    "file": "data/s4/metrics/original_global_sdi/SDI_Results_FR_s4_prototype_092417.mat"
+  },
+  {
+    "view": "original_global_sdi/s4/global/SDI_Results_FR_s4_prototype_092217.mat",
+    "file": "data/s4/metrics/original_global_sdi/SDI_Results_FR_s4_prototype_092217.mat"
+  },
+  {
+    "view": "original_global_sdi/s4/global/SDI_Results_FR_s4_prototype_100117.mat",
+    "file": "data/s4/metrics/original_global_sdi/SDI_Results_FR_s4_prototype_100117.mat"
+  },
+  {
+    "view": "original_global_sdi/s4/global/SDI_Results_FR_s4_prototype_092717.mat",
+    "file": "data/s4/metrics/original_global_sdi/SDI_Results_FR_s4_prototype_092717.mat"
+  },
+  {
+    "view": "original_global_sdi/s4/global/SDI_Results_FR_s4_prototype_100317.mat",
+    "file": "data/s4/metrics/original_global_sdi/SDI_Results_FR_s4_prototype_100317.mat"
+  },
+  {
+    "view": "original_global_sdi/s5/global/SDI_Results_FR_s5_prototype_082218.mat",
+    "file": "data/s5/metrics/original_global_sdi/SDI_Results_FR_s5_prototype_082218.mat"
+  },
+  {
+    "view": "original_global_sdi/s5/global/SDI_Results_FR_s5_prototype_082018.mat",
+    "file": "data/s5/metrics/original_global_sdi/SDI_Results_FR_s5_prototype_082018.mat"
+  },
+  {
+    "view": "original_global_sdi/s5/global/SDI_Results_FR_s5_prototype_081818.mat",
+    "file": "data/s5/metrics/original_global_sdi/SDI_Results_FR_s5_prototype_081818.mat"
+  },
+  {
+    "view": "original_global_sdi/s5/global/SDI_Results_FR_s5_prototype_081218.mat",
+    "file": "data/s5/metrics/original_global_sdi/SDI_Results_FR_s5_prototype_081218.mat"
+  },
+  {
+    "view": "original_global_sdi/s5/global/SDI_Results_FR_s5_prototype_081518.mat",
+    "file": "data/s5/metrics/original_global_sdi/SDI_Results_FR_s5_prototype_081518.mat"
+  },
+  {
+    "view": "original_global_decoding/s1/proto/Decoder_Acc_FR_s1_prototype_041916.mat",
+    "file": "data/s1/metrics/original_global_decoding/Decoder_Acc_FR_s1_prototype_041916.mat"
+  },
+  {
+    "view": "original_global_decoding/s1/proto/Decoder_Acc_FR_s1_prototype_042416.mat",
+    "file": "data/s1/metrics/original_global_decoding/Decoder_Acc_FR_s1_prototype_042416.mat"
+  },
+  {
+    "view": "original_global_decoding/s1/proto/Decoder_Acc_FR_s1_prototype_042016.mat",
+    "file": "data/s1/metrics/original_global_decoding/Decoder_Acc_FR_s1_prototype_042016.mat"
+  },
+  {
+    "view": "original_global_decoding/s1/proto/Decoder_Acc_FR_s1_prototype_042516.mat",
+    "file": "data/s1/metrics/original_global_decoding/Decoder_Acc_FR_s1_prototype_042516.mat"
+  },
+  {
+    "view": "original_global_decoding/s1/proto/Decoder_Acc_FR_s1_prototype_041816.mat",
+    "file": "data/s1/metrics/original_global_decoding/Decoder_Acc_FR_s1_prototype_041816.mat"
+  },
+  {
+    "view": "original_global_decoding/s1/proto/Decoder_Acc_FR_s1_prototype_042116.mat",
+    "file": "data/s1/metrics/original_global_decoding/Decoder_Acc_FR_s1_prototype_042116.mat"
+  },
+  {
+    "view": "original_global_decoding/s1/proto/Decoder_Acc_FR_s1_prototype_040716.mat",
+    "file": "data/s1/metrics/original_global_decoding/Decoder_Acc_FR_s1_prototype_040716.mat"
+  },
+  {
+    "view": "original_global_decoding/s1/proto/Decoder_Acc_FR_s1_prototype_041416.mat",
+    "file": "data/s1/metrics/original_global_decoding/Decoder_Acc_FR_s1_prototype_041416.mat"
+  },
+  {
+    "view": "original_global_decoding/s1/proto/Decoder_Acc_FR_s1_prototype_041116.mat",
+    "file": "data/s1/metrics/original_global_decoding/Decoder_Acc_FR_s1_prototype_041116.mat"
+  },
+  {
+    "view": "original_global_decoding/s1/proto/Decoder_Acc_FR_s1_prototype_041716.mat",
+    "file": "data/s1/metrics/original_global_decoding/Decoder_Acc_FR_s1_prototype_041716.mat"
+  },
+  {
+    "view": "original_global_decoding/s2/proto/Decoder_Acc_FR_s2_prototype_031217.mat",
+    "file": "data/s2/metrics/original_global_decoding/Decoder_Acc_FR_s2_prototype_031217.mat"
+  },
+  {
+    "view": "original_global_decoding/s2/proto/Decoder_Acc_FR_s2_prototype_031517.mat",
+    "file": "data/s2/metrics/original_global_decoding/Decoder_Acc_FR_s2_prototype_031517.mat"
+  },
+  {
+    "view": "original_global_decoding/s2/proto/Decoder_Acc_FR_s2_prototype_032317.mat",
+    "file": "data/s2/metrics/original_global_decoding/Decoder_Acc_FR_s2_prototype_032317.mat"
+  },
+  {
+    "view": "original_global_decoding/s3/proto/Decoder_Acc_FR_s3_prototype_072017.mat",
+    "file": "data/s3/metrics/original_global_decoding/Decoder_Acc_FR_s3_prototype_072017.mat"
+  },
+  {
+    "view": "original_global_decoding/s3/proto/Decoder_Acc_FR_s3_prototype_071117.mat",
+    "file": "data/s3/metrics/original_global_decoding/Decoder_Acc_FR_s3_prototype_071117.mat"
+  },
+  {
+    "view": "original_global_decoding/s3/proto/Decoder_Acc_FR_s3_prototype_071717.mat",
+    "file": "data/s3/metrics/original_global_decoding/Decoder_Acc_FR_s3_prototype_071717.mat"
+  },
+  {
+    "view": "original_global_decoding/s3/proto/Decoder_Acc_FR_s3_prototype_071517.mat",
+    "file": "data/s3/metrics/original_global_decoding/Decoder_Acc_FR_s3_prototype_071517.mat"
+  },
+  {
+    "view": "original_global_decoding/s4/proto/Decoder_Acc_FR_s4_prototype_100317.mat",
+    "file": "data/s4/metrics/original_global_decoding/Decoder_Acc_FR_s4_prototype_100317.mat"
+  },
+  {
+    "view": "original_global_decoding/s4/proto/Decoder_Acc_FR_s4_prototype_092717.mat",
+    "file": "data/s4/metrics/original_global_decoding/Decoder_Acc_FR_s4_prototype_092717.mat"
+  },
+  {
+    "view": "original_global_decoding/s4/proto/Decoder_Acc_FR_s4_prototype_100117.mat",
+    "file": "data/s4/metrics/original_global_decoding/Decoder_Acc_FR_s4_prototype_100117.mat"
+  },
+  {
+    "view": "original_global_decoding/s4/proto/Decoder_Acc_FR_s4_prototype_092217.mat",
+    "file": "data/s4/metrics/original_global_decoding/Decoder_Acc_FR_s4_prototype_092217.mat"
+  },
+  {
+    "view": "original_global_decoding/s4/proto/Decoder_Acc_FR_s4_prototype_092417.mat",
+    "file": "data/s4/metrics/original_global_decoding/Decoder_Acc_FR_s4_prototype_092417.mat"
+  },
+  {
+    "view": "original_global_decoding/s4/proto/Decoder_Acc_FR_s4_prototype_092917.mat",
+    "file": "data/s4/metrics/original_global_decoding/Decoder_Acc_FR_s4_prototype_092917.mat"
+  },
+  {
+    "view": "original_global_decoding/s5/proto/Decoder_Acc_FR_s5_prototype_081518.mat",
+    "file": "data/s5/metrics/original_global_decoding/Decoder_Acc_FR_s5_prototype_081518.mat"
+  },
+  {
+    "view": "original_global_decoding/s5/proto/Decoder_Acc_FR_s5_prototype_081218.mat",
+    "file": "data/s5/metrics/original_global_decoding/Decoder_Acc_FR_s5_prototype_081218.mat"
+  },
+  {
+    "view": "original_global_decoding/s5/proto/Decoder_Acc_FR_s5_prototype_081818.mat",
+    "file": "data/s5/metrics/original_global_decoding/Decoder_Acc_FR_s5_prototype_081818.mat"
+  },
+  {
+    "view": "original_global_decoding/s5/proto/Decoder_Acc_FR_s5_prototype_082018.mat",
+    "file": "data/s5/metrics/original_global_decoding/Decoder_Acc_FR_s5_prototype_082018.mat"
+  },
+  {
+    "view": "original_global_decoding/s5/proto/Decoder_Acc_FR_s5_prototype_082218.mat",
+    "file": "data/s5/metrics/original_global_decoding/Decoder_Acc_FR_s5_prototype_082218.mat"
   }
 ]

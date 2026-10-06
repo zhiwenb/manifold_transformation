@@ -3,3 +3,5 @@ outputs_simple/
 *.asv
 .DS_Store
 __pycache__/
+outputs_original_sdi/
+outputs_reference/

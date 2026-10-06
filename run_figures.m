@@ -12,7 +12,7 @@ end
 if ischar(panels) || isstring(panels), panels = cellstr(panels); end
 for k = 1:numel(panels)
     panel = char(panels{k});
-    assert(~isempty(regexp(panel, '^fig[2-5][A-F]+(_mixed)?$', 'once')), ...
+    assert(~isempty(regexp(panel, '^fig[2-5][A-F]+(_mixed|_global|_recomputed|_delta|_checked)?$', 'once')), ...
         'Invalid panel name.');
     script = fullfile(root, 'panels', [panel '.m']);
     assert(isfile(script), 'Unavailable panel: %s', panel);
@@ -23,6 +23,7 @@ end
 end
 
 function execute_panel(script, destination)
+close all; % Export only figures created by this panel.
 % Isolate legacy scripts that clear their workspace and use relative exports.
 previous = pwd;
 cleanup = onCleanup(@() cd(previous));

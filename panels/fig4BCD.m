@@ -1,8 +1,15 @@
+% Reference reproduction retains the historical stale-p annotation bug.
+% See reference_check/README.md; use fig4BCD_checked for per-bar stars.
+% Historical mixed geometry: variation M1 and global M2.
 [S, fig_png, fig_pdf] = did_group_tests( ...
-  figure_input('manifold/global/M1.mat'), ...
+  figure_input('manifold/var/M1.mat'), ...
   figure_input('manifold/global/M2.mat'), ...
   'save_dir', figure_output('fig4BCD'), ...
   'n_perm', 10000, 'B_boot', 10000);
+
+
+fid=fopen(fullfile(figure_output('fig4BCD'),'statistics.json'),'w');
+fprintf(fid,'%s',jsonencode(S,PrettyPrint=true));fclose(fid);
 
 
 

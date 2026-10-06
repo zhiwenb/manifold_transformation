@@ -8,7 +8,7 @@ clear; clc; close all;
 
 %% -------------------- 1. Path setup --------------------
 % SDI result root containing session subdirectories.
-result_root = figure_input('global_sdi');
+result_root = figure_input('original_global_sdi');
 
 save_dir = figure_output('fig4F');
 if ~exist(save_dir, 'dir'), mkdir(save_dir); end
@@ -306,6 +306,8 @@ h_m2 = plot(NaN,NaN, '-', 'Color', col_M2, 'LineWidth', 2.5);
 legend([h_e, h_l, h_m1, h_m2], {'Early','Late','M1','M2'}, ...
     'Location','southwest','FontSize',10,'Box','off');
 box off;
+
+ylim([-5 25]); % Match the reference panel axis range.
 
 %% -------------------- 8. Save --------------------
 pair_index = (1:n_pairs_total)';

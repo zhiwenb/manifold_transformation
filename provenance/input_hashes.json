@@ -810,5 +810,229 @@
   {
     "file": "data/s3/metrics/global_sdi/SDI_Results_s3_prototype_072017.mat",
     "sha256": "8b30e82f9771db759f7aff05fd53e3892794f03a58010656a4c90faf25853716"
+  },
+  {
+    "file": "data/s3/metrics/original_global_sdi/SDI_Results_FR_s3_prototype_071517.mat",
+    "sha256": "48e311ff69dc630bde279394338a7e39279e9b75e2037e41083a07c191f48d12"
+  },
+  {
+    "file": "data/s3/metrics/original_global_sdi/SDI_Results_FR_s3_prototype_071717.mat",
+    "sha256": "743c5f426e1967e92e9da11a95117b9cf3567a332d3c0a29ff64854cf5ec99cf"
+  },
+  {
+    "file": "data/s3/metrics/original_global_sdi/SDI_Results_FR_s3_prototype_071117.mat",
+    "sha256": "a611b87d930b434e32d7d7630d45d34591ba2f8dba2009d99fa86eca58a1879f"
+  },
+  {
+    "file": "data/s3/metrics/original_global_sdi/SDI_Results_FR_s3_prototype_072017.mat",
+    "sha256": "81f0380a0f022141c98d3446a4b68f24296a8b0ee1752504853ceb4bb411c1df"
+  },
+  {
+    "file": "data/s2/metrics/original_global_sdi/SDI_Results_FR_s2_prototype_032317.mat",
+    "sha256": "d6d826db53dcbc361fbe247e59a68bdc89db88143f7483e58d7810badebe5fb8"
+  },
+  {
+    "file": "data/s2/metrics/original_global_sdi/SDI_Results_FR_s2_prototype_031517.mat",
+    "sha256": "a7fdd8a752c5a60e49a54142161920e5bea9d6b041ba9b1eec193b13a9a26fff"
+  },
+  {
+    "file": "data/s2/metrics/original_global_sdi/SDI_Results_FR_s2_prototype_031217.mat",
+    "sha256": "827ff2ec281046f43458e4ac9a344deea22c0f3358cab839eca9ce10f8a9f5ad"
+  },
+  {
+    "file": "data/s1/metrics/original_global_sdi/SDI_Results_FR_s1_prototype_041716.mat",
+    "sha256": "bc1fec63ea31783931aaafc034772d4270b30baf9feff1167c4ac1b887830db4"
+  },
+  {
+    "file": "data/s1/metrics/original_global_sdi/SDI_Results_FR_s1_prototype_041116.mat",
+    "sha256": "0a18787d9375da34ec75f5f7c4289e1900f8ec580191946fcdb8174ddc14f846"
+  },
+  {
+    "file": "data/s1/metrics/original_global_sdi/SDI_Results_FR_s1_prototype_041416.mat",
+    "sha256": "7e6d79e4c27f123672f6519c4a8c02ccc3524b7e4b74bcfd02d8125bbbef6939"
+  },
+  {
+    "file": "data/s1/metrics/original_global_sdi/SDI_Results_FR_s1_prototype_040716.mat",
+    "sha256": "52f9ff918922066ae633dc1dca51ff2ea2baa5d5c003b2001fb4fdefcc32709e"
+  },
+  {
+    "file": "data/s1/metrics/original_global_sdi/SDI_Results_FR_s1_prototype_042116.mat",
+    "sha256": "1b432cc20b9d833c5168be7c0e740b5f01aeeaaf34dd559c0e15e192d9fa77bf"
+  },
+  {
+    "file": "data/s1/metrics/original_global_sdi/SDI_Results_FR_s1_prototype_041816.mat",
+    "sha256": "8bb03965b56bb050ba33737a2f258d74ca0d014e2989a928b9dd1dead814a555"
+  },
+  {
+    "file": "data/s1/metrics/original_global_sdi/SDI_Results_FR_s1_prototype_042516.mat",
+    "sha256": "0d453155dc1226318b0f12f0bb164726edd546f05958b1c4bcc3d533e2758dda"
+  },
+  {
+    "file": "data/s1/metrics/original_global_sdi/SDI_Results_FR_s1_prototype_042016.mat",
+    "sha256": "2ca384abb0477fefdf68ac4389cca714cbb62652f909417bc0c8ab895c7df5b5"
+  },
+  {
+    "file": "data/s1/metrics/original_global_sdi/SDI_Results_FR_s1_prototype_042416.mat",
+    "sha256": "c0e883981ff6a9598c3f6c52bdf526e32630a0e7c4fc6c20832fc8e9fce28f3d"
+  },
+  {
+    "file": "data/s1/metrics/original_global_sdi/SDI_Results_FR_s1_prototype_041916.mat",
+    "sha256": "a8b06fdfc7610a003af64f6b156669ec3915ed81e92ee4141429cec779c8a0b3"
+  },
+  {
+    "file": "data/s4/metrics/original_global_sdi/SDI_Results_FR_s4_prototype_092917.mat",
+    "sha256": "5222257f50486c305f29b335ced01156a326738698a1c982dd2f0951041d6978"
+  },
+  {
+    "file": "data/s4/metrics/original_global_sdi/SDI_Results_FR_s4_prototype_092417.mat",
+    "sha256": "c3a91195ca847eb744998636aa0a4ec9442e2208eee9e8725de989cfdf031cc6"
+  },
+  {
+    "file": "data/s4/metrics/original_global_sdi/SDI_Results_FR_s4_prototype_092217.mat",
+    "sha256": "d86112a10f1c54d3b97f1a987c5a3e8ff0ea54622fb913ae52a1419d6b0a4d79"
+  },
+  {
+    "file": "data/s4/metrics/original_global_sdi/SDI_Results_FR_s4_prototype_100117.mat",
+    "sha256": "2b103e91e06da30275b406bd4a701b090045c499826ba3b1fde9735d7cd7f1d4"
+  },
+  {
+    "file": "data/s4/metrics/original_global_sdi/SDI_Results_FR_s4_prototype_092717.mat",
+    "sha256": "b08072431ab6faadf6602fc54e52016a367150df976eb05e5d89a025c9fa5c69"
+  },
+  {
+    "file": "data/s4/metrics/original_global_sdi/SDI_Results_FR_s4_prototype_100317.mat",
+    "sha256": "54feba79446e87faf01fea540fa87b49c76f99e33ee3042b26f237a037ee5ad5"
+  },
+  {
+    "file": "data/s5/metrics/original_global_sdi/SDI_Results_FR_s5_prototype_082218.mat",
+    "sha256": "3b1c2140964ac3b8c5ef9ad3eab3a9a70ce550817ad8985c04e4714112bc5f79"
+  },
+  {
+    "file": "data/s5/metrics/original_global_sdi/SDI_Results_FR_s5_prototype_082018.mat",
+    "sha256": "dce081ca286908c7225bd4480422d3da565f7a99bdf1fcf01d9bdb5427becb25"
+  },
+  {
+    "file": "data/s5/metrics/original_global_sdi/SDI_Results_FR_s5_prototype_081818.mat",
+    "sha256": "5fbec1a592a29d7073b554ce1f838644b0e319279fd818eec808c6c93dc2768a"
+  },
+  {
+    "file": "data/s5/metrics/original_global_sdi/SDI_Results_FR_s5_prototype_081218.mat",
+    "sha256": "5654207784bc39b1d70308cd512ee4cec9ab679a95b2a80dc8a4c32906532bb9"
+  },
+  {
+    "file": "data/s5/metrics/original_global_sdi/SDI_Results_FR_s5_prototype_081518.mat",
+    "sha256": "bf354767ac6cffec96f81ae1450080fcf9558c1c4d7b317288bac238596633b6"
+  },
+  {
+    "file": "data/s1/metrics/original_global_decoding/Decoder_Acc_FR_s1_prototype_041916.mat",
+    "sha256": "b7d1576e07ce1c3da7f3fa796fe56e32a074dd6ebc43cd62e19dc0244d740047"
+  },
+  {
+    "file": "data/s1/metrics/original_global_decoding/Decoder_Acc_FR_s1_prototype_042416.mat",
+    "sha256": "a31f7d41cdba601a651378ddbb573eaf9872a4d39b8ee892e7975280c782a77c"
+  },
+  {
+    "file": "data/s1/metrics/original_global_decoding/Decoder_Acc_FR_s1_prototype_042016.mat",
+    "sha256": "b9687e6b111c628c71dda5224ddad8e292fda91a8820382eecf8bc8fcd955d2d"
+  },
+  {
+    "file": "data/s1/metrics/original_global_decoding/Decoder_Acc_FR_s1_prototype_042516.mat",
+    "sha256": "d12d4f12c7d7cf1b581f1b90140699f82626e7abac885744822850e0e2a3aea0"
+  },
+  {
+    "file": "data/s1/metrics/original_global_decoding/Decoder_Acc_FR_s1_prototype_041816.mat",
+    "sha256": "a01092851e9988133cc7a2525bee8cef24361c1a11a44a2effa115a5889025b7"
+  },
+  {
+    "file": "data/s1/metrics/original_global_decoding/Decoder_Acc_FR_s1_prototype_042116.mat",
+    "sha256": "087db9121068a34694a3c3528301bdcf8230994137383f4ea78559f4bff9406f"
+  },
+  {
+    "file": "data/s1/metrics/original_global_decoding/Decoder_Acc_FR_s1_prototype_040716.mat",
+    "sha256": "7d0748f0cfcdfc762b26b5be955a86312d361b3bc2adcff9a68b62a2f118fae8"
+  },
+  {
+    "file": "data/s1/metrics/original_global_decoding/Decoder_Acc_FR_s1_prototype_041416.mat",
+    "sha256": "88f76b4e094ea4d589deb634e4f40c4873322b917f6c7e79e9f8b8aaf1bebd28"
+  },
+  {
+    "file": "data/s1/metrics/original_global_decoding/Decoder_Acc_FR_s1_prototype_041116.mat",
+    "sha256": "89d8950996f4196c0639e63a617886e89538d9b83b74de54c0340f6cf1480eab"
+  },
+  {
+    "file": "data/s1/metrics/original_global_decoding/Decoder_Acc_FR_s1_prototype_041716.mat",
+    "sha256": "a31b8c3075213c705137d5e2166e247a0be49a194d230d09b37e40531dd7fd21"
+  },
+  {
+    "file": "data/s2/metrics/original_global_decoding/Decoder_Acc_FR_s2_prototype_031217.mat",
+    "sha256": "4ab8973b15a95739b67caca85fa84b22c24bc06d63f3d62081810dad72097ec4"
+  },
+  {
+    "file": "data/s2/metrics/original_global_decoding/Decoder_Acc_FR_s2_prototype_031517.mat",
+    "sha256": "4d437ca46b00bfb38b46a4113145fa5f26875fd40c66661387ac6fefdd168a6f"
+  },
+  {
+    "file": "data/s2/metrics/original_global_decoding/Decoder_Acc_FR_s2_prototype_032317.mat",
+    "sha256": "13b0de4526208297ddd0ec8937849976b37676ddfb0863edefd940e17ff1ee09"
+  },
+  {
+    "file": "data/s3/metrics/original_global_decoding/Decoder_Acc_FR_s3_prototype_072017.mat",
+    "sha256": "1f288ad368724d049ca246baba65315c836f77b729468af82e8a3d3d932c192c"
+  },
+  {
+    "file": "data/s3/metrics/original_global_decoding/Decoder_Acc_FR_s3_prototype_071117.mat",
+    "sha256": "b9ec55b673ba4e0e28bab59241903cabe37aaba48c1cad0aee668b08961e73b9"
+  },
+  {
+    "file": "data/s3/metrics/original_global_decoding/Decoder_Acc_FR_s3_prototype_071717.mat",
+    "sha256": "dea91296130a9001948ea383a4b2605e84fb9c831351f4b1e777d9bf6092dd72"
+  },
+  {
+    "file": "data/s3/metrics/original_global_decoding/Decoder_Acc_FR_s3_prototype_071517.mat",
+    "sha256": "f90e6866fb45e448a5f9fb70fc01fab420320ff0365d9078ee3522b281274e26"
+  },
+  {
+    "file": "data/s4/metrics/original_global_decoding/Decoder_Acc_FR_s4_prototype_100317.mat",
+    "sha256": "97d72de62640364ddd52f7c553d64fb62b79bc7d16f24694692f8233e6d78069"
+  },
+  {
+    "file": "data/s4/metrics/original_global_decoding/Decoder_Acc_FR_s4_prototype_092717.mat",
+    "sha256": "f5bd91928e8ff261a3b01975921f2ebe65cf0ed618b3c50389a7e555982028a5"
+  },
+  {
+    "file": "data/s4/metrics/original_global_decoding/Decoder_Acc_FR_s4_prototype_100117.mat",
+    "sha256": "a4b76acdcbbc6c06b0288efca881a79751db14ba0c257cb12311e5d4c9bfd466"
+  },
+  {
+    "file": "data/s4/metrics/original_global_decoding/Decoder_Acc_FR_s4_prototype_092217.mat",
+    "sha256": "54f4a38f4e03eee232e8d43b09be3d527e7e952908097198b408ff05add8866d"
+  },
+  {
+    "file": "data/s4/metrics/original_global_decoding/Decoder_Acc_FR_s4_prototype_092417.mat",
+    "sha256": "9d70ef42659c4a2a50307d03d50aa3e2af018e699cea23b372eb75c769305a1f"
+  },
+  {
+    "file": "data/s4/metrics/original_global_decoding/Decoder_Acc_FR_s4_prototype_092917.mat",
+    "sha256": "a9a40d165d4b7f7cbe0a7ba0476d6c18c4912cead0b62c6e723433c7f385425b"
+  },
+  {
+    "file": "data/s5/metrics/original_global_decoding/Decoder_Acc_FR_s5_prototype_081518.mat",
+    "sha256": "fd5b93ff19b1ce83da3748552c1a4a57cc2438cb9faf565bbe3b3dcd91a5f17a"
+  },
+  {
+    "file": "data/s5/metrics/original_global_decoding/Decoder_Acc_FR_s5_prototype_081218.mat",
+    "sha256": "8452a250fa512bc6978d14dd6a539e9dcfeeba4b12d1536576605e9bb92e4a0f"
+  },
+  {
+    "file": "data/s5/metrics/original_global_decoding/Decoder_Acc_FR_s5_prototype_081818.mat",
+    "sha256": "90c9e1e9dc1a48371a5804b5b1031a777a55c6b24199d95a6a7e74972875f3b7"
+  },
+  {
+    "file": "data/s5/metrics/original_global_decoding/Decoder_Acc_FR_s5_prototype_082018.mat",
+    "sha256": "b565e4181e1aeed98e748e3a09b2b9b2d9744f28baec754bf46e45c87d61af6a"
+  },
+  {
+    "file": "data/s5/metrics/original_global_decoding/Decoder_Acc_FR_s5_prototype_082218.mat",
+    "sha256": "dfd5ebffb0cd8246e2009fcb20d07bb33a813457672c380a3b3aea47552427e4"
   }
 ]
