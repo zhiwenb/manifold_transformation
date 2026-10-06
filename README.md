@@ -64,5 +64,5 @@ Bootstrap/permutation intervals may vary slightly because legacy random sampling
 is retained; the data and neuron collections are unchanged.
 
 Git LFS tracks MATLAB data and binary figures. A clone requires Git LFS and
-`git lfs pull`. This local repository has no GitHub remote and has not been
-uploaded. No redistribution license is assigned on behalf of the data owners.
+`git lfs pull`. GitHub repository: https://github.com/zhiwenb/manifold_transformation
+No redistribution license is assigned on behalf of the data owners.
