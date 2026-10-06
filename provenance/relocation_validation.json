@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "panel": "fig4E",
+  "independent_checkout": "temporary directory outside the original project",
+  "input_count": 30,
+  "paired_units": 50,
+  "mean_delta": -0.37365,
+  "paired_t_p": 0.664923
+}

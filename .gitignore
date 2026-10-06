@@ -1,0 +1,4 @@
+outputs/
+*.asv
+.DS_Store
+__pycache__/
