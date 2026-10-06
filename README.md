@@ -4,7 +4,7 @@
 
 The data and MATLAB code used to generate the analytical figure panels are available in this repository: [https://github.com/zhiwenb/manifold_transformation](https://github.com/zhiwenb/manifold_transformation).
 
-The repository contains processed firing-rate data, saved SDI and decoding results, manifold estimates, and plotting scripts. The original neuron collections are retained without additional SNR filtering. Raw spike recordings are not included. The supplied data support the following panels: Fig. 2D–F, Fig. 3A–F, Fig. 4B–F, and Fig. 5B–C. Reference PDFs for Figs. 1–5 are provided in `references/`; plotting code for the remaining panels is not included.
+The repository contains processed firing-rate data, saved SDI and decoding results, manifold estimates, analysis functions, and plotting scripts. The original neuron collections are retained without additional SNR filtering. Raw spike recordings are not included. The supplied data support the following panels: Fig. 2D–F, Fig. 3A–F, Fig. 4B–F, and Fig. 5B–C. Reference PDFs for Figs. 1–5 are provided in `references/`; plotting code for the remaining panels is not included.
 
 ## Repository contents
 
@@ -13,6 +13,7 @@ The repository contains processed firing-rate data, saved SDI and decoding resul
 | `data/s1`–`data/s5` | Session-specific firing-rate data and saved analysis results |
 | `data/extra_var` | Additional session containing variation data only |
 | `data/manifold` | Shared manifold result tables |
+| `analysis` | FR-based analysis functions and CDT extraction methods |
 | `panels` | MATLAB plotting scripts |
 | `results` | Exported figure panels in PDF and PNG formats |
 | `references` | Reference figure PDFs |
@@ -29,7 +30,7 @@ Sessions are numbered sequentially for this release:
 | s5 | M2 |
 | extra_var | M1 |
 
-Within each session, `fr/var` and `fr/global` contain firing-rate inputs, and `metrics/` contains saved analysis results. The variation-only session is not included in global analyses.
+Within each session, `fr/var` and `fr/global` contain firing-rate inputs, and `metrics/` contains saved analysis results. Additional `fr/variation` and `fr/prototype` inputs support the saved between-category analyses. The variation-only session is not included in global analyses.
 
 ## Reproducing the figures
 
@@ -52,8 +53,19 @@ run_figures('fig4BCD_global')  % Generate geometry panels using global data
 
 Figures are written to `outputs_reference/fig*/`. Required input paths are prepared automatically; no manual path edits are needed. Input file integrity can be checked with `python3 validate_bundle.py`.
 
+## Recomputing analyses
+
+From MATLAB in the repository directory:
+
+```matlab
+run_analysis('sdi', 's1')          % Recompute SDI using the stored neurons
+run_analysis('cross_svm', 's2', 1) % Run one recording for a quick check
+```
+
+New results are saved to `outputs_analysis/` without replacing the supplied figure inputs. See [analysis instructions](analysis/README.md) for SDI, SVM, manifold, geometry, cvPCA, and raw CDT extraction entry points. Raw extraction requires external CDT files and the original recording-specific neuron lists.
+
 ## Analysis notes
 
-The plotting scripts use the supplied processed data and saved estimates. They do not reconstruct firing rates, manifold estimates, or decoding results from raw spike recordings. Session membership and historical analysis subsets are retained. Fig. 3F uses 46 paired observations; Figs. 4E–F use 70 paired observations. Bootstrap intervals and point jitter may vary between runs.
+The plotting scripts use the supplied processed data and saved estimates. The separate analysis functions recompute estimates from processed firing rates; the released package does not provide an end-to-end reconstruction of every figure from raw spike recordings. Session membership and historical analysis subsets are retained. Fig. 3F uses 46 paired observations; Figs. 4E–F use 70 paired observations. Bootstrap intervals and point jitter may vary between runs.
 
 The default Fig. 4B–D script retains the original combination of variation data for M1 and global data for M2. It also retains the original significance-label behavior for figure reproduction. For significance labels calculated separately for each bar, use `fig4BCD_checked`; for global data in both animals, use `fig4BCD_global`.

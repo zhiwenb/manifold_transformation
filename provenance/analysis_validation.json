@@ -1,0 +1,33 @@
+{
+  "fig2_sdi_cache_exact": true,
+  "category_sdi_cache_exact": true,
+  "cross_svm_cache_layout_matches": true,
+  "cross_svm_max_difference_percentage_points": 0,
+  "real_file_tasks": [
+    "sdi",
+    "geometry",
+    "global_sdi",
+    "category_sdi",
+    "cross_svm",
+    "cvpca"
+  ],
+  "reduced_real_data_tasks": [
+    "within_svm",
+    "internal_svm",
+    "manifold"
+  ],
+  "raw_extraction": "Source included; raw inputs and original neuron lists required.",
+  "global_sdi_cache_exact": true,
+  "global_svm_max_difference_percentage_points": 0,
+  "manifold_did_known_difference_passed": true,
+  "manifold_smoke": "Full real FR, n_t=8; production n_t=1000 not rerun.",
+  "release_entrypoint_checks": {
+    "date": "2026-10-06",
+    "passed": [
+      "run_analysis(sdi,s1,1)",
+      "run_analysis(global_sdi,s1,1)",
+      "run_analysis(cross_svm,s2,1)"
+    ],
+    "input_integrity": "309 inputs; 289 plotting views"
+  }
+}

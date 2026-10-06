@@ -1,0 +1,80 @@
+[
+  {
+    "file": "analysis/calculate_sdi.m",
+    "source": "training_effect_publication/code_manifold_combine/Decoding_Figure2/SDI_pair.m",
+    "source_sha256": "ffdf09cae22e61a6f29d5a124678dd2a059ff46ab865376a94d47240d3c0221f",
+    "adaptation": "Portable paths and callable entry point; analysis expressions retained."
+  },
+  {
+    "file": "analysis/calculate_within_svm.m",
+    "source": "training_effect_publication/code_manifold_combine/Decoding_Figure2/SVM_pair.m",
+    "source_sha256": "f1e963af7aeaf80367e4408c66bd9e6c6add6e837c44c1802d83c8707539a7f3",
+    "adaptation": "Portable paths and callable entry point; analysis expressions retained."
+  },
+  {
+    "file": "analysis/calculate_cross_svm.m",
+    "source": "training_effect_publication/code_manifold_combine/Decoding_Figure2/decoding_for_cross.m",
+    "source_sha256": "476bbb3ef23d0bcfc1d7c93f395b81b2828ef61708edac120befb18d6d770c90",
+    "adaptation": "Portable paths and callable entry point; analysis expressions retained."
+  },
+  {
+    "file": "analysis/calculate_internal_svm.m",
+    "source": "training_effect_publication/code_manifold_combine/Decoding_Figure2/decoding_for_within.m",
+    "source_sha256": "6199253bb51f14d3a639c61272e14acae75e003fe551e7e8bb1eb1a8c178bcd3",
+    "adaptation": "Portable paths and callable entry point; analysis expressions retained."
+  },
+  {
+    "file": "analysis/calculate_global_sdi.m",
+    "source": "training_effect_publication/code_manifold_combine/Discriminability/dist_global.m",
+    "source_sha256": "919a02aae09a105743653b38a9ce655c7883a9cbfb94efe6e2c8d1ea83f9af1e",
+    "adaptation": "Portable paths and callable entry point; analysis expressions retained."
+  },
+  {
+    "file": "analysis/calculate_geometry.m",
+    "source": "training_effect_publication/code_manifold_combine/Discriminability/var_dist.m",
+    "source_sha256": "35dc400cffbc5e483453d20a7c8fa857d6c62261d4579a8bad55b72594bcc511",
+    "adaptation": "Portable paths and callable entry point; analysis expressions retained."
+  },
+  {
+    "file": "analysis/manifold_stable_analysis_corr.m",
+    "source": "training_effect_publication/code_manifold_combine/manifold_capacity/manifold_stable_analysis_corr.m",
+    "source_sha256": "51bf53a7ddbda23238049047b62236ae68f15f7cdd78a60a8dc834022c10941d",
+    "adaptation": "Portable paths and callable entry point; analysis expressions retained."
+  },
+  {
+    "file": "analysis/analyze_manifold_file.m",
+    "source": "training_effect_publication/code_manifold_combine/manifold_capacity/manifold_analysis_var.m",
+    "source_sha256": "9cee7941e012af7abcb2b699d596f8398975bfe72ce2fa8dc24650165c0642bd",
+    "adaptation": "Portable paths and callable entry point; analysis expressions retained."
+  },
+  {
+    "file": "analysis/calculate_cvpca_distances.m",
+    "source": "training_effect_publication/code_manifold_combine/procruste/run_para_rd.m",
+    "source_sha256": "6046ef1780901377bf5cc22c5a271407ec0b797dfa3493c4f9fac4b997a9c0b3",
+    "adaptation": "Portable paths and callable entry point; analysis expressions retained."
+  },
+  {
+    "file": "analysis/distance_parameters.m",
+    "source": "training_effect_publication/code_manifold_combine/procruste/getPara.m",
+    "source_sha256": "74fbce0a4240d6630aad58aafe670b60fa834d77b8ca28d42a65ebd0a50bd9b6",
+    "adaptation": "Portable paths and callable entry point; analysis expressions retained."
+  },
+  {
+    "file": "analysis/extract_fr_var.m",
+    "source": "training_effect_publication/code_manifold_combine/Data_FR/get_FR_var.m",
+    "source_sha256": "69fcb6dc9329baea5772180fb1b01146da58a65f01735e7db53c1eb54d75b067",
+    "adaptation": "Portable paths and callable entry point; analysis expressions retained."
+  },
+  {
+    "file": "analysis/extract_fr_global.m",
+    "source": "training_effect_publication/code_manifold_combine/Data_FR/get_FR_global.m",
+    "source_sha256": "1e1026c42033f60b62ae04625c4721236566ddb6322e3eaa8bcb94f6944ad82a",
+    "adaptation": "Portable paths and callable entry point; analysis expressions retained."
+  },
+  {
+    "file": "analysis/calculate_manifold_did.m",
+    "source": "training_effect_publication/code_manifold_combine/manifold_capacity/analyzediff_var.m",
+    "source_sha256": "a7b2089c530d23ce5c9d861db0078b91d0a99ed4e8688347543ed1c07b58a0af",
+    "adaptation": "Portable paths and callable entry point; analysis expressions retained."
+  }
+]
