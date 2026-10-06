@@ -4,7 +4,7 @@
 
 The data and MATLAB code used to generate the analytical figure panels are available in this repository: [https://github.com/zhiwenb/manifold_transformation](https://github.com/zhiwenb/manifold_transformation).
 
-The repository contains processed firing-rate data, saved SDI and decoding results, manifold estimates, and plotting scripts. The original neuron collections are retained without additional SNR filtering. Raw spike recordings are not included. The supplied data support the following panels: Fig. 2D–F, Fig. 3A–F, Fig. 4B–F, and Fig. 5B–C. Reference PDFs for Figs. 1–5 are provided in `references/`; plotting code for the remaining panels is not included.
+The repository contains processed firing-rate data, saved SDI and decoding results, manifold estimates, and plotting scripts. The original neuron collections are retained without additional SNR filtering. Raw spike recordings are not included. The supplied data support the following panels: Fig. 2D–F, Fig. 3A–F, Fig. 4B–F, and Fig. 5B–C. Plotting code for the remaining panels is not included.
 
 ## Repository contents
 
@@ -15,8 +15,6 @@ The repository contains processed firing-rate data, saved SDI and decoding resul
 | `data/manifold` | Shared manifold result tables |
 | `panels` | MATLAB plotting scripts |
 | `results` | Exported figure panels in PDF and PNG formats |
-| `references` | Reference figure PDFs |
-| `provenance` | Input checksums, recording dates, and session mappings |
 
 Sessions are numbered sequentially for this release:
 
@@ -50,7 +48,7 @@ run_figures('fig4BCD_checked') % Assign significance to each geometry bar
 run_figures('fig4BCD_global')  % Generate geometry panels using global data
 ```
 
-Figures are written to `outputs_reference/fig*/`. Required input paths are prepared automatically; no manual path edits are needed. Input file integrity can be checked with `python3 validate_bundle.py`.
+Figures are written to `outputs/fig*/`. Required input paths are prepared automatically; no manual path edits are needed.
 
 ## Analysis notes
 

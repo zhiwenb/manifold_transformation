@@ -5,3 +5,6 @@ outputs_simple/
 __pycache__/
 outputs_original_sdi/
 outputs_reference/
+
+outputs_analysis/
+outputs/

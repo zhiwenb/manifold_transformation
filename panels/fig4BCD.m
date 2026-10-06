@@ -1,5 +1,5 @@
-% Reference reproduction retains the historical stale-p annotation bug.
-% See reference_check/README.md; use fig4BCD_checked for per-bar stars.
+% Retains historical significance labels.
+% Use fig4BCD_checked for significance calculated separately for each bar.
 % Historical mixed geometry: variation M1 and global M2.
 [S, fig_png, fig_pdf] = did_group_tests( ...
   figure_input('manifold/var/M1.mat'), ...
